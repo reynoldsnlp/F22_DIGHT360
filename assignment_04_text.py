@@ -1,4 +1,4 @@
-"""The text to be searched for assignment 2."""
+"""The text to be searched for assignment 4."""
 
 # http://www.writersdigest.com/writing-articles/by-writing-goal/improve-my-writing/the_sentence_sleuth_nix_those_nominalizations
 
