@@ -37,7 +37,7 @@ Was he?'''
 
 print(get_freq_dist(toy_text))
 
-with open('nlp.txt') as f:
+with open('nlp.txt', encoding='utf8') as f:
     freq_dict = get_freq_dist(f.read())
     print(freq_dict)
 
