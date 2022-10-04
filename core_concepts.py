@@ -8,7 +8,8 @@ VERY detailed in your explanations. (It's okay if the lines are too long for
 PEP8.)
 
 Where you see comments beginning with TODO, add/change the code to complete
-the feature described in the comment. Then delete TODO the comment."""
+the feature described in the comment. Then delete the TODO comment.
+"""
 
 # TODO add an import statement to import the `variance` function from the
 # `statistics` module, giving the function the alias `var`.
@@ -40,7 +41,7 @@ def func1(a1):
     # TODO Edit the docstring above to reflect the purpose of this function.
     # TODO Write a new function below this function that does the exact same
     # thing using only one list comprehension or one for loop. Test them to
-    # be sure they function exactly the same.
+    # be sure both function exactly the same.
     a2 = [q1 for q1 in a1 if q1 not in {',', '.', '?'}]
     a3 = [q1 for q1 in a2 if q1 not in stop_words]
     a4 = [q1.lower() for q1 in a3]
@@ -69,8 +70,8 @@ un_able_words = re.findall(r'YOUR REGEX HERE', x1)  # TODO write regex
 print('Is the regex working? (should be True)', un_able_words == target_words)
 print('Are these the same? (should be False)', un_able_words is target_words)
 
-# TODO Many of the variables used in this module are not helpful. Rename all of
-# the variables that have a number in them to better reflect the values stored
-# in them. I recommend using Find/Replace, or your IDE's refactoring tools to
-# avoid changing a name in one place, but not another. Make sure the script
-# runs without errors after you change the names.
+# TODO Many of the variable names used in this module are not helpful. Rename
+# all the variables that have a number in them to better reflect the values
+# stored in them. I recommend using Find/Replace, or your IDE's refactoring
+# tools to avoid changing a name in one place, but not another. Make sure the
+# script runs without errors after you change the names.
