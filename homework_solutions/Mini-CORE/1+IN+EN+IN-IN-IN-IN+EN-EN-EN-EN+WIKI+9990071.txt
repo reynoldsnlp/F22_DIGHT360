@@ -1,0 +1,235 @@
+<9990071>
+<http://en.wikipedia.org/wiki/4G>
+<Rater 1: IN_EN * Wiki>
+<Rater 2: IN_EN * Wiki>
+<Rater 3: IN_EN * Wiki>
+<Rater 4: IN_EN * Wiki>
+<p> This article is outdated . Please update this article to reflect recent events or newly available information. (March 2013)
+<p> This article needs attention from an expert on the subject . Please add a reason or a talk parameter to this template to explain the issue with the article. Consider associating this request with a WikiProject . (March 2013)
+<p> 4G , short for fourth generation , is the fourth generation of mobile telecommunications technology, succeeding 3G and preceding 5G . A 4G system, in addition to the usual voice and other services of 3G, provides mobile ultra-broadband Internet access, for example to laptops with USB wireless modems , to smartphones , and to other mobile devices. Even though 4G is a successor technology of 3G, there can be signification issues on 3G network to upgrade to 4G as many of them were not built on forward compatibility. Conceivable applications include amended mobile web access, IP telephony , gaming services, high-definition mobile TV , video conferencing, 3D television , and cloud computing .
+<p> Two 4G candidate systems are commercially deployed: the Mobile WiMAX standard (first used in South Korea in 2006), and the first-release Long Term Evolution (LTE) standard (in Oslo, Norway and Stockholm, Sweden since 2009). It has however been debated if these first-release versions should be considered to be 4G or not, as discussed in the technical definition section below.
+<p> In the United States, Sprint (previously Clearwire ) has deployed Mobile WiMAX networks since 2008, and MetroPCS was the first operator to offer LTE service in 2010. USB wireless modems have been available since the start, while WiMAX smartphones have been available since 2010, and LTE smartphones since 2011. Equipment made for different continents is not always compatible, because of different frequency bands. Mobile WiMAX is currently (April 2012) not available for the European market.
+<p> Since the first-release versions of Mobile WiMAX and LTE support much less than 1Gbit/s peak bit rate, they are not fully IMT-Advanced compliant, but are often branded 4G by service providers. On December 6, 2010, ITU-R recognized that these two technologies, as well as other beyond-3G technologies that do not fulfill the IMT-Advanced requirements, could nevertheless be considered "4G", provided they represent forerunners to IMT-Advanced compliant versions and "a substantial level of improvement in performance and capabilities with respect to the initial third generation systems now deployed".
+<p> Mobile WiMAX Release 2 (also known as WirelessMAN-Advanced or IEEE 802.16m' ) and LTE Advanced (LTE-A) are IMT-Advanced compliant backwards compatible versions of the above two systems, standardized during the spring 2011, [ citation needed ] and promising speeds in the order of 1Gbit/s. Services are expected in 2013.
+<p> The term "generation" used to name successive evolutions of radio networks in general is arbitrary. There are several interpretations, and no official definition has been made despite the consensus behind ITU-R's labels. From ITU-R's point of view, 4G is equivalent to IMT-Advanced which has specific performance requirements as explained below. According to operators, a generation of network refers to the deployment of a new non-backward-compatible technology. The end user expects the next generation of network to provide better performance and connectivity than the previous generation. Meanwhile, GSM, UMTS and LTE networks coexist; and end-users will only receive the benefit of the new generation architecture when they simultaneously: use an access device compatible with the new infrastructure, are within range of the new infrastructure, and pay the provider for access to that new infrastructure.
+<p> The nomenclature of the generations generally refers to a change in the fundamental nature of the service, non-backwards-compatible transmission technology, higher peak bit rates, new frequency bands, wider channel frequency bandwidth in Hertz, and higher capacity for many simultaneous data transfers (higher system spectral efficiency in bit /second/Hertz/site).
+<p> New mobile generations have appeared about every ten years since the first move from 1981 analog (1G) to digital (2G) transmission in 1992. This was followed, in 2001, by 3G multi-media support, spread spectrum transmission and at least 200 kbit/s peak bit rate, in 2011/2012 expected to be followed by "real" 4G, which refers to all- Internet Protocol (IP) packet-switched networks giving mobile ultra-broadband (gigabit speed) access.
+<p> While the ITU has adopted recommendations for technologies that would be used for future global communications, they do not actually perform the standardization or development work themselves, instead relying on the work of other standards bodies such as IEEE, The WiMAX Forum and 3GPP.
+<p> In mid-1990s, the ITU-R standardization organization released the IMT-2000 requirements as a framework for what standards should be considered 3G systems, requiring 200 kbit/s peak bit rate. In 2008, ITU-R specified the IMT-Advanced (International Mobile Telecommunications Advanced) requirements for 4G systems.
+<p> The fastest 3G-based standard in the UMTS family is the HSPA+ standard, which is commercially available since 2009 and offers 28Mbit/s downstream (22Mbit/s upstream) without MIMO , i.e. only with one antenna, and in 2011 accelerated up to 42Mbit/s peak bit rate downstream using either DC-HSPA+ (simultaneous use of two 5MHz UMTS carrier) [ 1 ] or 2x2MIMO. In theory speeds up to 672Mbit/s is possible, but has not been deployed yet. The fastest 3G-based standard in the CDMA2000 family is the EV-DO Rev. B , which is available since 2010 and offers 15.67Mbit/s downstream. [ citation needed ]
+<p> Implementations of Mobile WiMAX and first-release LTE are largely considered a stopgap solution that will offer a considerable boost until WiMAX 2 (based on the 802.16m spec) and LTE Advanced are deployed. The latter's standard versions were ratified in spring 2011, but are still far from being implemented. [ 2 ]
+<p> The first set of 3GPP requirements on LTE Advanced was approved in June 2008. [ 6 ] LTE Advanced was to be standardized in 2010 as part of Release 10 of the 3GPP specification. LTE Advanced will be based on the existing LTE specification Release 10 and will not be defined as a new specification series. A summary of the technologies that have been studied as the basis for LTE Advanced is included in a technical report. [ 7 ]
+<p> Some sources consider first-release LTE and Mobile WiMAX implementations as pre-4G or near-4G, as they do not fully comply with the planned requirements of 1Gbit/s for stationary reception and 100Mbit/s for mobile. [ citation needed ]
+<p> Confusion has been caused by some mobile carriers who have launched products advertised as 4G but which according to some sources are pre-4G versions, [ citation needed ] commonly referred to as '3.9G', [ citation needed ] which do not follow the ITU-R defined principles for 4G standards, [ citation needed ] but today can be called 4G according to ITU-R . [ citation needed ] A common argument for branding 3.9G systems as new-generation is that they use different frequency bands from 3G technologies; [ citation needed ] that they are based on a new radio-interface paradigm; [ citation needed ] and that the standards are not backwards compatible with 3G, [ citation needed ] whilst some of the standards are forwards compatible with IMT-2000 compliant versions of the same standards. [ citation needed ]
+<p> Recently, ITU-R Working Party 5D approved two industry-developed technologies (LTE Advanced and WirelessMAN-Advanced) [ 8 ] for inclusion in the ITUs International Mobile Telecommunications Advanced program (IMT-Advanced program), which is focused on global communication systems that would be available several years from now.
+<p> LTE Advanced (Long Term Evolution Advanced) is a candidate for IMT-Advanced standard, formally submitted by the 3GPP organization to ITU-T in the fall 2009, and expected to be released in 2013. The target of 3GPP LTE Advanced is to reach and surpass the ITU requirements. [ 9 ] LTE Advanced is essentially an enhancement to LTE. It is not a new technology, but rather an improvement on the existing LTE network. This upgrade path makes it more cost effective for vendors to offer LTE and then upgrade to LTE Advanced which is similar to the upgrade from WCDMA to HSPA. LTE and LTE Advanced will also make use of additional spectrums and multiplexing to allow it to achieve higher data speeds. Coordinated Multi-point Transmission will also allow more system capacity to help handle the enhanced data speeds. Release 10 of LTE is expected to achieve the IMT Advanced speeds. Release 8 currently supports up to 300Mbit/s of download speeds which is still short of the IMT-Advanced standards. [ 10 ]
+<p> The IEEE 802.16m or WirelessMAN-Advanced evolution of 802.16e is under development, with the objective to fulfill the IMT-Advanced criteria of 1Gbit/s for stationary reception and 100Mbit/s for mobile reception. [ 11 ]
+<p> The pre-4G 3GPP Long Term Evolution (LTE) technology is often branded "4G-LTE", but the first LTE release does not fully comply with the IMT-Advanced requirements. LTE has a theoretical net bit rate capacity of up to 100Mbit/s in the downlink and 50Mbit/s in the uplink if a 20MHz channel is used- and more if multiple-input multiple-output (MIMO), i.e. antenna arrays, are used.
+<p> The physical radio interface was at an early stage named High Speed OFDM Packet Access (HSOPA), now named Evolved UMTS Terrestrial Radio Access (E-UTRA). The first LTE USB dongles do not support any other radio interface.
+<p> In South Korea, SK Telecom and LG U+ have enabled access to LTE service since 1 July 2011 for data devices, slated to go nationwide by 2012. [ 18 ] KT Telecom closed its 2G service by March 2012, and complete the nationwide LTE service in the same frequency around 1.8GHz by June 2012.
+<p> In the United Kingdom, LTE services were launched by EE in October 2012, [ 19 ] and by O2 and Vodafone in August 2013. [ 20 ]
+<p> Just when Long-Term Evolution (LTE) and WiMax are vigorously promoting in the global telecommunications industry, the former (LTE) is also the most powerful 4G mobile communications leading technology, and quickly occupied the Chinese market. TD-LTE , one of the two variants of the LTE air interface technologies, is not yet mature, but many domestic and international wireless carriers one after another turn to TD-LTE.
+<p> IBM's data show that 67% of the operators are considering LTE, because this is the main source of their future market. The above news also confirmed this statement of IBM. While only 8% of the operators are considering the use of WiMAX. WiMax can provide the fastest network transmission to its customers on the market, but still could challenge LTE.
+<p> TD-LTE is not the first 4G wireless mobile broadband network data standard, but it is China's 4G standard that was amended and published by China's largest telecom operator - China Mobile . After a series of field trials, is expected to be released into the commercial phase in the next two years. Ulf Ewaldsson, Ericsson's vice president said: "the Chinese Ministry of Industry and China Mobile in the fourth quarter of this year will hold a large-scale field test, by then, Ericsson will help the hand." But viewing from the current development trend, whether this standard advocated by China Mobile will be widely recognized by the international market is still debatable.
+<p> UMB ( Ultra Mobile Broadband ) was the brand name for a discontinued 4G project within the 3GPP2 standardization group to improve the CDMA2000 mobile phone standard for next generation applications and requirements. In November 2008, Qualcomm , UMB's lead sponsor, announced it was ending development of the technology, favouring LTE instead. [ 23 ] The objective was to achieve data speeds over 275Mbit/s downstream and over 75Mbit/s upstream.
+<p> The iBurst system (or HC-SDMA, High Capacity Spatial Division Multiple Access) was at an early stage considered to be a 4G predecessor. It was later further developed into the Mobile Broadband Wireless Access (MBWA) system, also known as IEEE 802.20.
+<p> Rev B note: N is the number of 1.25MHz carriers used. EV-DO is not designed for voice, and requires a fallback to 1xRTT when a voice call is placed or received.
+<p> Notes: All speeds are theoretical maximums and will vary by a number of factors, including the use of external antennas, distance from the tower and the ground speed (e.g. communications on a train may be poorer than when standing still). Usually the bandwidth is shared between several terminals. The performance of each technology is determined by a number of constraints, including the spectral efficiency of the technology, the cell sizes used, and the amount of spectrum available. For more information, see Comparison of wireless data standards .
+<p> MIMO : To attain ultra high spectral efficiency by means of spatial processing including multi-antenna and multi-user MIMO
+<p> Frequency-domain-equalization, for example multi-carrier modulation ( OFDM ) in the downlink or single-carrier frequency-domain-equalization (SC-FDE) in the uplink: To exploit the frequency selective channel property without complex equalization
+<p> Frequency-domain statistical multiplexing, for example ( OFDMA ) or (single-carrier FDMA) (SC-FDMA, a.k.a. linearly precoded OFDMA, LP-OFDMA) in the uplink: Variable bit rate by assigning different sub-channels to different users based on the channel conditions
+<p> Recently, new access schemes like Orthogonal FDMA (OFDMA), Single Carrier FDMA (SC-FDMA), Interleaved FDMA , and Multi-carrier CDMA (MC-CDMA) are gaining more importance for the next generation systems. These are based on efficient FFT algorithms and frequency domain equalization, resulting in a lower number of multiplications per second. They also make it possible to control the bandwidth and form the spectrum in a flexible way. However, they require advanced dynamic channel allocation and adaptive traffic scheduling.
+<p> WiMax is using OFDMA in the downlink and in the uplink. For the LTE (telecommunication) , OFDMA is used for the downlink; by contrast, Single-carrier FDMA is used for the uplink since OFDMA contributes more to the PAPR related issues and results in nonlinear operation of amplifiers. IFDMA provides less power fluctuation and thus requires energy-inefficient linear amplifiers. Similarly, MC-CDMA is in the proposal for the IEEE 802.20 standard. These access schemes offer the same efficiencies as older technologies like CDMA. Apart from this, scalability and higher data rates can be achieved.
+<p> The other important advantage of the above-mentioned access techniques is that they require less complexity for equalization at the receiver. This is an added advantage especially in the MIMO environments since the spatial multiplexing transmission of MIMO systems inherently require high complexity equalization at the receiver.
+<p> In addition to improvements in these multiplexing systems, improved modulation techniques are being used. Whereas earlier standards largely used Phase-shift keying , more efficient systems such as 64 QAM are being proposed for use with the 3GPP Long Term Evolution standards.
+<p> Unlike 3G, which is based on two parallel infrastructures consisting of circuit switched and packet switched network nodes, 4G will be based on packet switching only . This will require low-latency data transmission.
+<p> By the time that 4G was deployed, the process of IPv4 address exhaustion was expected to be in its final stages. Therefore, in the context of 4G, IPv6 is essential to support a large number of wireless-enabled devices. By increasing the number of IP addresses available, IPv6 removes the need for network address translation (NAT), a method of sharing a limited number of addresses among a larger group of devices, although NAT will still be required to communicate with devices that are on existing IPv4 networks.
+<p> The performance of radio communications depends on an antenna system, termed smart or intelligent antenna . Recently, multiple antenna technologies are emerging to achieve the goal of 4G systems such as high rate, high reliability, and long range communications. In the early 1990s, to cater for the growing data rate needs of data communication, many transmission schemes were proposed. One technology, spatial multiplexing , gained importance for its bandwidth conservation and power efficiency. Spatial multiplexing involves deploying multiple antennas at the transmitter and at the receiver. Independent streams can then be transmitted simultaneously from all the antennas. This technology, called MIMO (as a branch of intelligent antenna ), multiplies the base data rate by (the smaller of) the number of transmit antennas or the number of receive antennas. Apart from this, the reliability in transmitting high speed data in the fading channel can be improved by using more antennas at the transmitter or at the receiver. This is called transmit or receive diversity . Both transmit/receive diversity and transmit spatial multiplexing are categorized into the space-time coding techniques, which does not necessarily require the channel knowledge at the transmitter. The other category is closed-loop multiple antenna technologies, which require channel knowledge at the transmitter.
+<p> One of the key technologies for 4G and beyond is called Open Wireless Architecture (OWA), supporting multiple wireless air interfaces in an open architecture platform.
+<p> SDR is one form of open wireless architecture (OWA). Since 4G is a collection of wireless standards, the final form of a 4G device will constitute various standards. This can be efficiently realized using SDR technology, which is categorized to the area of the radio convergence.
+<p> The 4G system was originally envisioned by the Defense Advanced Research Projects Agency (DARPA). [ citation needed ] The DARPA selected the distributed architecture and end-to-end Internet protocol (IP), and believed at an early stage in peer-to-peer networking in which every mobile device would be both a transceiver and a router for other devices in the network, eliminating the spoke-and-hub weakness of 2G and 3G cellular systems. [ 29 ] [ pageneeded ] Since the 2.5G GPRS system, cellular systems have provided dual infrastructures: packet switched nodes for data services, and circuit switched nodes for voice calls. In 4G systems, the circuit-switched infrastructure is abandoned and only a packet-switched network is provided, while 2.5G and 3G systems require both packet-switched and circuit-switched network nodes , i.e. two infrastructures in parallel. This means that in 4G, traditional voice calls are replaced by IP telephony.
+<p> In 2002, the strategic vision for 4G-which ITU designated as IMT-Advanced-was laid out.
+<p> In November 2005, KT demonstrated mobile WiMAX service in Busan, South Korea. [ 30 ]
+<p> In April 2006, KT started the world's first commercial mobile WiMAX service in Seoul, South Korea. [ 31 ]
+<p> In mid-2006, Sprint announced that it would invest about US$5billion in a WiMAX technology buildout over the next few years [ 32 ] ($5.85billion in real terms [ 33 ] ). Since that time Sprint has faced many setbacks that have resulted in steep quarterly losses. On 7 May 2008, Sprint , Imagine , Google , Intel , Comcast , Bright House , and Time Warner announced a pooling of an average of 120MHz of spectrum; Sprint merged its Xohm WiMAX division with Clearwire to form a company which will take the name "Clear".
+<p> In February 2007, the Japanese company NTT DoCoMo tested a 4G communication system prototype with 44 MIMO called VSF-OFCDM at 100 Mbit /s while moving, and 1 Gbit /s while stationary. NTT DoCoMo completed a trial in which they reached a maximum packet transmission rate of approximately 5Gbit/s in the downlink with 1212 MIMO using a 100MHz frequency bandwidth while moving at 10km/h, [ 34 ] and is planning on releasing the first commercial network in 2010.
+<p> In January 2008, a U.S. Federal Communications Commission (FCC) spectrum auction for the 700MHz former analog TV frequencies began. As a result, the biggest share of the spectrum went to Verizon Wireless and the next biggest to AT&T. [ 36 ] Both of these companies have stated their intention of supporting LTE .
+<p> In November 2008, ITU-R established the detailed performance requirements of IMT-Advanced, by issuing a Circular Letter calling for candidate Radio Access Technologies (RATs) for IMT-Advanced. [ 41 ]
+<p> In April 2008, just after receiving the circular letter, the 3GPP organized a workshop on IMT-Advanced where it was decided that LTE Advanced, an evolution of current LTE standard, will meet or even exceed IMT-Advanced requirements following the ITU-R agenda.
+<p> On 12 November 2008, HTC announced the first WiMAX-enabled mobile phone, the Max 4G [ 43 ]
+<p> In 15 December 2008, San Miguel Corporation , the largest food and beverage conglomerate in southeast Asia, has signed a memorandum of understanding with Qatar Telecom QSC ( Qtel ) to build wireless broadband and mobile communications projects in the Philippines. The joint-venture formed wi-tribe Philippines, which offers 4G in the country. [ 44 ] Around the same time Globe Telecom rolled out the first WiMAX service in the Philippines.
+<p> In December 2009, Sprint began advertising "4G" service in selected cities in the United States, despite average download speeds of only 3-6Mbit/s with peak speeds of 10Mbit/s (not available in all markets). [ 46 ]
+<p> On 14 December 2009, the first commercial LTE deployment was in the Scandinavian capitals Stockholm and Oslo by the Swedish-Finnish network operator TeliaSonera and its Norwegian brandname NetCom (Norway) . TeliaSonera branded the network "4G". The modem devices on offer were manufactured by Samsung (dongle GT-B3710), and the network infrastructure created by Huawei (in Oslo) and Ericsson (in Stockholm). TeliaSonera plans to roll out nationwide LTE across Sweden, Norway and Finland. [ 47 ] [ 48 ] TeliaSonera used spectral bandwidth of 10MHz, and single-in-single-out, which should provide physical layer net bitrates of up to 50Mbit/s downlink and 25Mbit/s in the uplink. Introductory tests showed a TCP throughput of 42.8Mbit/s downlink and 5.3Mbit/s uplink in Stockholm. [ 49 ]
+<p> On March 17, 2011, the HTC Thunderbolt offered by Verizon in the U.S. was the second LTE smartphone to be sold commercially. [ 58 ] [ 59 ]
+<p> On 31 January 2012, Thailand 's AIS and its subsidiaries DPC under cooperation with CAT Telecom for 1800MHz frequency band and TOT for 2300MHz frequency band launched the first field trial LTE in Thailand with authorization from NBTC . [ 60 ]
+<p> On 10 October 2012, Vodacom (Vodafone South Africa) became the first operator in South Africa to launch a commercial LTE service.
+<p> In December 2012, Telcel launches in Mexico the 4G LTE network in 9 major cities
+<p> In Kazakhstan , 4G LTE was launched on December 26, 2012 in the entire territory in the frequency bands 1865-1885/1760 - 1780MHz for the urban population and in 794-799/835-840MHz for those sparsely populated
+<p> Telecom giant Etisalat Afghanistan, the first telecom company to launch 3.75G services in Afghanistan on 19th Feb, 2013 announced the commencement of test of its Long-term Evolution (LTE) 4G mobile network.
+<p> Safaricom, a telecommunication company in Kenya, began its setup of a 4G network in October 2010 after the now retired Kenya Tourist Board Chairman, Michael Joseph, regarded their 3G network as a white elephant. Huawei was given the contract and the network is set to go fully commercial by the end of Q1 of 2011 but was yet to establish the network by the end of 2012.
+<p> Telstra announced on 15 February 2011, that it intends to upgrade its current Next G network to 4G with Long Term Evolution (LTE) technology in the central business districts of all Australian capital cities and selected regional centers by the end of 2011. [ 64 ]
+<p> Telstra launched the country's first 4G network (FD-LTE) in September 2011 claiming "2-100Mbps" speeds and announced an "aggressive" expansion of that network in 2012. [ 65 ] [ 66 ]
+<p> Telstra will use a mixture of 10MHz and 15MHz bandwidth in the 1800MHz band.
+<p> Optus have established a 4G (FD-LTE) network using 10MHz (out of 15MHz available) bandwidth in the 1800MHz band and added the 2.3GHz band for 4G TD-LTE after acquiring Vivid Wireless in 2012. [ 67 ]
+<p> Vodafone Australia have indicated their roll out of 4G FD-LTE will use 20MHz bandwidth and initially support Cat 3 devices at launch, then quickly move to support Cat 4 devices.
+<p> Australian Communications and Media Authority (ACMA) will auction 700MHz " digital dividend " and 2600MHz spectrum for the provision of 4G FD-LTE services in April 2013. Telstra and Optus are expected to participate in both, while Vodafone has stated it will only participate in the 2600MHz auction.
+<p> On 19 December 2013 Optus claims to set up the world's first TD-LTE Advanced carrier aggregation network. The company achieved a throughput of 520Mbit/s, by combining four 20MHz channels of the 2300MHz spectrum band into 80MHz. [ 68 ] [ 69 ]
+<p> On 7 October 2013, T-Mobile Austria started LTE service for Smartphones. The company also announced plans for further LTE coverage. Until the end of 2013 parts of the city Bregenz, Klagenfurt , Salzburg and St. Plten will be covered with LTE. [ 81 ]
+<p> On October 21, 2013, the multiband spectrum auction was completed. The following figure shows the current allocation for this frequency band: [ 82 ]
+<p> International LTE Roaming : 19. December, 2013, A1 Telekom Austria is the first Austrian operator which introduced LTE Roaming. The company signed a roaming agreement with Swisscom following by further countries (planned: Brazil, Canada, Croatia, Germany, Italy, The Netherlands, New Zealand, Romania, Slovenia, South Africa, South Korea, Spain, United Kingdom, United States) in 2014. If Customers of A1 Telekom Austria want use LTE abroad they need either a LTE package or one of their new A1 Go! contract plans, launched in December 2013. [ 86 ]
+<p> On 28 January 2014, A1 announced commercial service for LTE 800MHz on more than 200 sites. Austrians largest mobile operator covers currently 45% of the population with LTE. The company plans to cover more than 50% of the population until the end of 2014. [ 87 ] [ 88 ]
+<p> On 28 June 2011, Belgium 's largest telecom operator Belgacom announced the roll out of the country's first 4G network. [ 91 ] On 3 July 2012 it confirmed the outroll in 5 major cities and announced the commercial launch to take place before the end of 2012. [ 92 ]
+<p> On 27 April 2012, Brazil s telecoms regulator Agncia Nacional de Telecomunicaes ( Anatel ) announced that the 6 host cities for the 2013 Confederations Cup to be held there will be the first to have their networks upgraded to 4G. [ 93 ]
+<p> Telus and Bell Canada , the major Canadian cdmaOne and EV-DO carriers, have announced that they will be cooperating towards building a fourth generation (4G) LTE wireless broadband network in Canada. As a transitional measure, they are implementing 3G UMTS network that went live in November 2009. [ 94 ] Bell Canada's 4G network now covers 97% of the population as of December 2013. [ 95 ]
+<p> On 22 November 2012, Orange launched the first 4G business plan in Marseille , Lyon , Lille and Nantes . Then, on 29 November 2012, SFR launched 4G in Lyon , extending to Montpellier . It was the first 4G commercial launch in France .
+<p> 5 September 2013, Deutsche Telekom announced LTE category 4 with download speed of 150 Mbit/s at the IFA . LTE category 4 or LTE+ , so called by Deutsche Telekom, is available in areas which are covered by the 1800MHz and 2600MHz frequency. [ 107 ]
+<p> 5 March 2014, E-Plus started commercial LTE service in Berlin, Nuremberg and Leipzig by using the 1800MHz frequency. [ 110 ]
+<p> 10 March 2014, at the CeBIT in Hannover Deutsche Telekom announced the launch of LTE-A with 300 Mbit/s for Q3 in 2014. [ 111 ]
+<p> International LTE Roaming : 22 May 2014, Vodafone added LTE Roaming within the Vodafone Group in the following six european countries. Greece, Italy, The Netherlands, Portugal, Spain and UK. Vodafone also plans to launch LTE Roaming in other countries and on other networks. [ 112 ]
+<p> Bharti Airtel launched India's first 4G service, using TD-LTE technology, in Kolkata on April 10, 2012. [ 114 ] Fourteen months prior to the official launch in Kolkata, a group consisting of China Mobile , Bharti Airtel and SoftBank Mobile came together, called Global TD-LTE Initiative (GTI) in Barcelona, Spain and they signed the commitment towards TD-LTE standards for the Asian region. It must be noted that Bharti Airtel's 4G network does not support mainstream 4G phones [ 115 ] such as Apple iPhone 4s/5, Samsung Galaxy Note 3, Samsung Galaxy S4 and others.
+<p> RIL is launching 4G services through its subsidiary, Jio Infocomm. RIL 4G services are currently available only in Jamnagar , where it is testing the new TD-LTE technology. RIL 4G rollout is planned to start in Delhi , Mumbai and Kolkata and expand to cover 700 cities, including 100 high-priority markets.
+<p> During APEC meeting on October 1-8, 2013 in Bali , Telkomsel will conduct 4G LTE network trial. Telkomsel 4G LTE network will operate at 1800MHz frequency. As part of the program it will sell "simPATI LTE Trial Edition" prepaid SIM card. [ 117 ]
+<p> Since November 2013, PT Internux, with brand Bolt 4G, has commercialized LTE 4G service using TDD-LTE. Initially, Bolt 4G is only available on 2300MHz covering Jakarta and the surrounding cities. [ 118 ]
+<p> In May 2005, Digiweb , an Irish wired and wireless broadband company, announced that they had received a mobile communications license from the Irish telecoms regulator ComReg . This service will be issued the mobile code 088 in Ireland and will be used for the provision of 4G mobile communications. [ 119 ] [ 120 ] Digiweb launched a mobile broadband network using FLASH-OFDM technology at 872MHz.
+<p> On November 15, 2012 the Commission for Communications Regulation (ComReg) announced the results of its multi-band spectrum auction. [ 121 ] This auction awarded spectrum rights of use in the 800MHz, 900MHz and 1800MHz bands in Ireland from 2013 to 2030. The winners of spectrum were Three Ireland , Meteor , O 2 Ireland and Vodafone . All of the winning bidders in the auction have indicated that they intend to move rapidly to deploy advanced services. [ 122 ]
+<p> By the end of 2012, the national telecommunication operator JSC Kazakhtelecom launched 4G services in both Astana and Almaty. It is expected that by the end of 2013 the service will be available across the whole country. [ citation needed ]
+<p> In December 2012, UAE 's Etisalat announced the commercial launch of 4G LTE services covering over 70% of country's urban areas. [ citation needed ] As of May, 2013 only few areas have been covered. [ citation needed ]
+<p> In 2012, Alfa and Touch in Lebanon, announced their 4G LTE networks to be ready after months of testing and evaluations. And 4G LTE was officially launched in April 2013. [ citation needed ]
+<p> After the multiband spectrum auction in Q4-2012 KPN announced that the deployment of 4G services would start in February 2013 and that nationwide coverage will be available in Q1 2014. [ 132 ]
+<p> Vodafone has launched the 4G network in August 2013, [ 133 ] while T-Mobile announced only a roll-out in Q4 of 2013. [ 134 ] Tele2 will launch their network probably in the same time as T-Mobile, because they are using site/antenna-sharing.
+<p> As of Q1 2014, KPN will be the first network provider that has deployed a nationwide 4G network in the Netherlands. [ 135 ] Expectations are that both KPN and Vodafone will reach nationwide coverage in 2014. T-Mobile and Tele2, being lower-budget providers, will probably never reach a nationwide coverage, as is the case with their existing 2G and 3G networks. Tele2 will stay a MVNO (i.e., Tele2 will buy network capacity) on the T-Mobile network for 2G/3G Services and a MVNO on the KPN network for 2G/3G Business Services (previously Versatel). [ 136 ]
+<p> After the multiband spectrum auction the frequency allocation in the Netherlands is as follows: [ 137 ]
+<p> Frequency
+<p> E-UTRA Band
+<p> Bandwidth
+<p> Type of LTE
+<p> KPN
+<p> Vodafone
+<p> T-Mobile
+<p> Tele2
+<p> ZUM
+<p> 800MHz
+<p> XX (20)
+<p> 2x30 MHz
+<p> FDD
+<p> 2x10 MHz
+<p> 2x10 MHz
+<p> 2x10 MHz
+<p> 900MHz
+<p> VIII (8)
+<p> 2x35 MHz
+<p> FDD
+<p> 2x10 MHz
+<p> 2x10 MHz
+<p> 2x15 MHz
+<p> 1800MHz
+<p> III (3)
+<p> 2x70 MHz
+<p> FDD
+<p> 2x20 MHz
+<p> 2x20 MHz
+<p> 2x30 MHz
+<p> 1900MHz
+<p> XXXIII (33)
+<p> 1x35 MHz
+<p> TDD
+<p> 1x5 MHz
+<p> 1x5.4MHz
+<p> 1x24.6MHz
+<p> 2100MHz
+<p> I (1)
+<p> 2x59,4MHz
+<p> FDD
+<p> 2x19.8MHz
+<p> 2x19.6MHz
+<p> 2x20 MHz
+<p> 2600MHz
+<p> VII (7) XXXVIII (38)
+<p> 2x65 MHz 2x65 MHz
+<p> FDD TDD
+<p> 210MHz 130MHz
+<p> 2x10 MHz -
+<p> 2x5 MHz 1x25 MHz
+<p> 2x20 MHz 1x5 MHz
+<p> 2x20 MHz -
+<p> International LTE Roaming: On 16 February 2014 KPN announced LTE Roaming agreement with Orange in France and Telenor in Norway. Following by operators in the US, the UK, Russia, Japan, Spain, Austria, Switzerland, Poland and Saudi Arabia later this month. Brazil and China are scheduled to be included in March, Germany, Hong Kong, Croatia and Slovenia will be added in April, and Denmark, Canada and Finland will be included in June. [ 138 ] [ 139 ]
+<p> In New Zealand , the first 4G network was introduced in parts of Auckland by Vodafone NZ on 28 February 2013. Coverage has since expanded to parts of Palmerston North, Wellington, Wanaka, Queenstown, Christchurch, Taupo, and New Plymouth. [ 140 ]
+<p> A small village by Lake Brunner on the West Coast with only 250 people, Moana , got 4G broadband in May 2013. This is part of a test of rural broadband services in the 700MHz range. [ 141 ]
+<p> On July 7, 2013, the Government of Pakistan announced the auction of 3G/4G operators in Pakistan [ 146 ]
+<p> On 23 April 2014, the government auctioned of 3G and 4G licenses to cellular service providers raising $1.182 billion in revenues. Zong became the country's first and only company to win a 4G license. Mobilink and Zong bid for the superior 10MHz band, while Telenor and Ufone preferred to bid on the cheaper 5MHz band. Although Mobilink , having acquired the 10MHz band, qualified for a 4G licence too, they opted not to go all the way.
+<p> On May 2, 2014, Pakistan Telecommunication Authority allowed Warid Telecom to go public with 4G LTE services. Warid has planned to launch the service. If sources are to be believed then Warid is aiming to run the test on 4G LTE in last week of May 2014, while its already in process of deploying 4G LTE network in 5 cities, which it will announce after successful tests accordingly.
+<p> As part of its massive network upgrade, Globe [ 148 ] has launched its 4th Generation Long-Term Evolution (4G LTE) network for mobile and broadband. To date, Globe has completed over 2,700 4G LTE network sites, with the number expected to rise to over 4000 by the end of 2012.
+<p> In September, Globe launched its 4G LTE network covering key commercial as well as residential areas in Makati, with more sites following shortly in Manila, Cebu, Davao, and other select regions. As more key activations are completed in the coming months, Globe subscribers will soon enjoy best-in-class mobile and broadband services across the Philippines. [ citation needed ]
+<p> SMART Communications was the first to roll out the fastest 4G LTE in the country (Philippines). Over 900 sites served nationwide with partner establishments. [ citation needed ]
+<p> On 31 August 2011, Plus (Polkomtel) launched 4G commercially in Poland. The download speed was up to 100Mbit/s, while upload speed was up to 50Mbit/s. On 25 October 2012, download speed was increased to 150Mbit/s. It uses 1800MHz spectrum. [ citation needed ]
+<p> International LTE Roaming : Since mid-May 2014 Orange offers LTE Roaming service which is currently available in the networks of Orange in Moldova, Poland and Spain and will also be extended to other networks during 2014. [ 151 ]
+<p> TeliaSonera started deploying LTE (branded "4G") in Stockholm and Oslo November 2009 (as seen above), and in several Swedish, Norwegian, and Finnish cities during 2010. In June 2010, Swedish television companies used 4G to broadcast live television from the Swedish Crown Princesss wedding . [ 152 ]
+<p> On May 9, 2013, Yoigo announced its service, which will use the 1800MHz band and offer speeds up to 100Mbit/s, and will first be launched in Madrid on July 19. [ 155 ]
+<p> On May 13, Orange Espana announced it will launch its 4G network on 8 July, simultaneously in six of the country's largest cities: Madrid, Barcelona, Valencia, Seville, Malaga and Murcia. A further nine cities - Bilbao, Zaragoza, Alicante, Cordoba, La Corua, Valladolid and Vigo on the mainland, Palma de Mallorca in the Balearic Islands and Las Palmas in the Canary Islands - will be live by the end of 2013. [ 156 ]
+<p> Since 30 May 2013, 4G is available in Spain thanks to Vodafone 4G. According to the company, services will use 1800MHz and 2600MHz spectrum and will offer download speeds of up to 150Mbit/s and upload speeds of 50Mbit/s. [ 157 ]
+<p> On July 7, 2008, South Korea announced plans to spend 60billion won , or US$58,000,000, on developing 4G and even 5G technologies, with the goal of having the highest mobile phone market share by 2012, and the hope of becoming an international standard. [ 163 ]
+<p> After the multiband spectrum auction (06.02. - 22.02.2012 [ 170 ] ) the frequency allocation in Switzerland is as follows:
+<p> Frequency
+<p> E-UTRA Band
+<p> Bandwidth
+<p> Type of LTE
+<p> Swisscom
+<p> Sunrise
+<p> Orange
+<p> 800MHz
+<p> XX (20)
+<p> 230MHz
+<p> FDD
+<p> 2x10 MHz
+<p> 2x10 MHz
+<p> 2x10 MHz
+<p> 900MHz
+<p> VIII (8)
+<p> 235MHz
+<p> FDD
+<p> 2x15 MHz
+<p> 2x15 MHz
+<p> 2x5 MHz
+<p> 1800MHz
+<p> III (3)
+<p> 275MHz
+<p> FDD
+<p> 2x30 MHz
+<p> 2x20 MHz
+<p> 2x25 MHz
+<p> 2100MHz
+<p> I (1)
+<p> 260MHz
+<p> FDD
+<p> 2x30 MHz
+<p> 2x10 MHz
+<p> 2x20 MHz
+<p> 2600MHz
+<p> VII (7) XXXVIII (38)
+<p> 270MHz 150MHz
+<p> FDD TDD
+<p> 2x20 MHz 1x45 MHz
+<p> 2x25 MHz -
+<p> 2x20 MHz -
+<p> Swisscom announced on 29 November 2012, commercial service of its category 3 LTE network with maximum speed of 100Mbit/s. [ 171 ] The following frequency range is in service for LTE. 800MHz, 1800MHz and 2600MHz. ( E-UTRA Bands 20, 3 und 7 ) In May 2013 Swisscom upgraded its LTE network from category 3 to category 4 . As of the upgrade the maximum speed has become 150Mbit/s. [ 172 ]
+<p> Orange started LTE on 28 May 2013. The second largest operator was the first who introduced prepaid LTE in Switzerland. The following frequency range is in service for LTE. 800MHz, 1800MHz and 2600MHz. ( E-UTRA Bands 20, 3 und 7 ) Orange LTE offers up to 100Mbit/s. The company will upgrade the maximum speed up to 150Mbit/s at the end of 2013. [ 173 ]
+<p> International LTE Roaming : Swisscom is the first European operator which offers international LTE Roaming. Since the 21 of June 2013 customers of Swisscom are able to use LTE network of the South Korean operators SK Telecom and KT . According to Swisscom Canada ( Rogers ) and Hong Kong ( SmarTone ) are the next countries where customers of the former state-owned company will be able to use LTE roaming. [ 174 ]
+<p> Sunrise was the last operator in Switzerland who introduced LTE. Commercial service is available as of 19 June 2013. The smallest operator in Switzerland offers speed up to 100Mbit/s. In 2013 Sunrise is using only the 1800MHz frequency for LTE service. ( E-UTRA Band 3 ) The operator will use other frequency bands (800MHz and 2600MHz - E-UTRA Bands 7 and 20 ) in the future as well. [ 175 ] Prepaid customers of Sunrise are able to use LTE with maximum network speed - even MVNO customer. [ 176 ]
+<p> Since the beginning of July 2013 Swisscom prepaid customers are able to enter the LTE network. Maximum speed depends on the subscribed plan. [ 172 ]
+<p> On 19 November 2013, Orange and UPC Cablecom announced a new partnership. Over the next two years, UPC Cablecom will connect more than 1,000 4G masts with top bandwidths of between 1 and 10Gbit/s. [ 177 ] [ 178 ]
+<p> Thailand National Broadcasting & Telecommunications Commission (NBTC) has earmarked 1.8GHz and 2.3GHz spectrum for 4G services. The 1.8GHz will be available for auction around the 4th quarter of 2014 when the license for GSM service on the spectrum will expire. The 2.3GHz spectrum is currently held by TOT Corp, a state enterprise. Negotiation on refarming part of the band is ongoing. [ citation needed ]
+<p> In 2009 O2 (a subsidiary of Telefnica Europe ) used Slough for testing the 4G network, with Huawei installing LTE technology in six masts across the town to allow testing of HD video conferencing and mobile PlayStation games. [ 186 ] On February 29, 2012, UK Broadband launched the first commercial 4G LTE service in the UK in the London Borough of Southwark . [ 187 ] In October 2012, MVNO , Abica Limited, announced they were to trial 4G LTE services for high speed M2M applications.
+<p> On August 21, 2012, the United Kingdom 's regulator Ofcom allowed EE , the owner of the Orange and T-Mobile networks, to use its existing spectrum in the 1,800MHz band to launch fourth-generation (4G) mobile services. [ 188 ] As part of Ofcom's approval of the company's roll-out of 4G it was announced on August 22 that 3 had acquired part of EE's 1,800MHz spectrum for part of their own 4G network. [ 189 ] The 4G service from EE was announced on September 11, 2012 and launched on October 30, initially in 11 cities. [ 190 ] [ 191 ] The network aims to cover 70% of the UK by 2013 and 98% by 2014. [ 192 ]
+<p> On November 12, 2012 Ofcom published final regulations and a timetable [ 193 ] for the 4G mobile spectrum auction. It also launched a new 4G consumer page, [ 194 ] providing information on the upcoming auction and the consumer benefits that new services will deliver. Ofcom auctioned off the UK-wide 4G spectrum previously used by the country's analogue television signals in the 800MHz band as well as in the 2,600MHz band. [ 195 ] On 20 February 2013, the winners of the 4G spectrum auction were announced by Ofcom. [ 196 ] The four major networks, EE, O2, Vodafone and 3, were awarded spectrum along with Niche Spectrum Ventures Ltd (a subsidiary of BT Group plc).
+<p> On July 9, 2013, Ofcom announced that mobile network operators would be allowed to repurpose their existing 2G and 3G spectrum, specifically in the 900, 1,800 and 2,100MHz bands, for 4G services. [ 197 ]
+<p> Both O2 and Vodafone launched their 4G networks on August 29, 2013. [ 198 ] [ 199 ] The 3 network launched their 4G service in December 2013, initially it was only available to a selected few thousand customers in London preceding a nationwide rollout in 2014. [ 200 ] [ 201 ]
+<p> LTE MVNE : On 1 April 2014, Plintron World's largest Multi-Country MVNE Enables LYCAMOBILE to be in the 4G League in UK. Plintron have completed it's LTE core interoperability with O2 UK, to enable LYCAMOBILE 4G data services.
+<p> International LTE Roaming : AT&T signed LTE roaming agreement with EE on the 17th of December 2013. [ 202 ] EE announced further LTE roaming agreements with Orange in France and Spain on March 2014. Customers of EE will access the LTE networks of both operators immediately. The company also announced in a press release that it will extend its 4G coverage across major roaming destination including the USA, Italy, Germany, Switzerland and the Netherlands by the Summer. [ 203 ] [ 204 ]
+<p> At the beginning of May 2014, Vodafone added 4G roaming for their Red 4G customers in Greece, Italy, Portugal and Spain. [ 205 ]
+<p> On September 20, 2007, Verizon Wireless announced plans for a joint effort with the Vodafone Group to transition its networks to the 4G standard LTE. On December 9, 2008, Verizon Wireless announced their intentions to build and roll out an LTE network by the end of 2009. Since then, Verizon Wireless has said that they will start their roll out by the end of 2010.
+<p> Sprint offers a 3G/4G connection plan, currently [ when? ] available in select cities in the United States. [ 46 ] It delivers rates up to 10Mbit/s. Sprint has also launched an LTE network in early 2012. [ 206 ]
+<p> Verizon Wireless has announced [ when? ] that it plans to augment its CDMA2000-based EV-DO 3G network in the United States with LTE, and is supposed to complete a rollout of 175 cities by the end of 2011, two thirds of the US population by mid-2012, and cover [ citation needed ] the existing 3G network by the end of 2013. [ 207 ] AT&T , along with Verizon Wireless, has chosen to migrate toward LTE from 2G/GSM and 3G/HSPA by 2011. [ 208 ]
+<p> Sprint had deployed WiMAX technology which it has labeled 4G as of October 2008. It was the first US carrier to offer a WiMAX phone. [ 209 ]
+<p> The U.S. FCC is exploring [ when? ] the possibility of deployment and operation of a nationwide 4G public safety network which would allow first responders to seamlessly communicate between agencies and across geographies, regardless of devices. In June 2010 the FCC released a comprehensive white paper which indicates that the 10MHz of dedicated spectrum currently allocated from the 1700 MHz spectrum for public safety will provide adequate capacity and performance necessary for normal communications as well as serious emergency situations. [ 210 ]
+<p> International LTE Roaming : AT&T signed LTE roaming agreement with EE on the 17th of December 2013. [ 202 ]
+<p> Pervasive networks are an amorphous and at present entirely hypothetical concept where the user can be simultaneously connected to several wireless access technologies and can seamlessly move between them (See vertical handoff , IEEE 802.21 ). These access technologies can be Wi-Fi , UMTS , EDGE , or any other future access technology. Included in this concept is also smart-radio (also known as cognitive radio ) technology to efficiently manage spectrum use and transmission power as well as the use of mesh routing protocols to create a pervasive network.

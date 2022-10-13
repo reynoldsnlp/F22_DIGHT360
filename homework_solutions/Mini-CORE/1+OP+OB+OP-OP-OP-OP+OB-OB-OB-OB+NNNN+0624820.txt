@@ -1,0 +1,34 @@
+<0624820>
+<http://www.mailguard.com.au/blog/it-debates-should-your-boss-be-able-to-read-your-email/>
+<Rater 1: OP_OB *  * N * ID: A1HBDQ0BJQBA4Q>
+<Rater 2: OP_OB *  * N * ID: A2LFVJ28A2J2PK>
+<Rater 3: OP_OB *  * N * ID: A2ZRYNS8R5JSY6>
+<Rater 4: OP_OB *  * N * ID: ANJGSRS82U64O>
+
+<h> Post navigation
+<h> IT debates: should your boss be able to read your email?
+<p> In the first of a new series of debates focusing on privacy, security and productivity in IT, we ask the question: should your boss be able to read your email?
+<p> Do you, as the user of your work email address, have a right to privacy? Whether you like or not, your employer can set up the business email system so that they CAN read your email.  But is it right?
+<p> To some employees, email monitoring is part and parcel of working life. They accept that you should only use your work email for work related things and expect their employer to have access.
+<p> But to others, email monitoring is being highly intrusive -- a serious invasion of privacy. They feel that emails are personal  and the boss should not be able to read them.
+<p> So what are the arguments on each side of the debate?
+<h> The case against your boss being able to read your emails
+<p> Some people have a problem with their boss being allowed to read their emails (and they definitely CAN).  You might see it as a lack of trust and intrusive. You might consider information contained in your emails to be private and confidential.  You may even feel that morale and productivity could both be impacted as a result.
+<p> To these people, the debate is very much framed along ethical and moral lines.
+<h> The case for your boss being able to read your emails
+<p> There is a strong case to support the notion when you dig a little. After all, a work email address is not the property of the user. Your employer owns the domain, your computer, the software, the mail server, the network and therefore, the email address too.  And they pay you for the time you spend in the workplace.
+<p> What's more, employers are legally responsible for the images and content residing in and passing through their networks. Monitoring email may be necessary to ensure compliance requirements are met, and in the event of an audit or a lawsuit.
+<p> If you accept these two points, you are most likely limiting the content of your work email to things that you wouldn't mind your boss seeing or knowing about.
+<h> Email monitoring and the law
+<p> Email monitoring is at least in part protected by law in some states.  In 2005 the State Government of New South Wales passed the Workplace Surveillance Bill which was designed to regulate monitoring in the workplace.
+<p> One of the key objectives of the bill was "to prohibit the surveillance by employers of their employees at work except by surveillance of which employees have been given notice..."
+<p> As you can see, it does not prohibit surveillance outright. Your boss can monitor your emails as long as you are notified that it's taking place. It does, however, take a strong stance on monitoring without employees' knowledge.
+<h> Have your say in the debate
+<p> The issue of monitoring email in the workplace is a grey area, both legally and morally. It's fuelled significant debate -- there's plenty of discussion on the Whirlpool forums -- see here and here .
+<p> What's your view?  Should an employer be able to read their employees' email? Is email monitoring a necessary part of enforcing an acceptable usage policy? Or do you see it as an invasion of privacy?
+<p> Have your say in the comments section...
+<p> Note: this article is by no means intended as legal advice. Please consult a legal expert on the issue.
+<h> Ask the expert
+<p> MailGuard has been a dedicated cloud security provider for 11 years and operates across 27 countries.
+<p> Our email security, web security, email archiving, and email continuity business solutions can all be accessed from one unified console and we provide industry leading support that beats our competitors.
+

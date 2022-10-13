@@ -1,0 +1,20 @@
+<0225020>
+<http://www.theregister.co.uk/2012/09/25/giant_gas_cloud_envelopes_milky_way/print.html>
+<Rater 1: NA_NE * QU * N * ID: A2A07J1P6YEW6Z>
+<Rater 2: NA_NE *  * N * ID: A1XM0SQUNC4EFH>
+<Rater 3: NA_NE *  * N * ID: A22LJFUCFXZKZS>
+<Rater 4: NA_NE *  * N * ID: AD0EHH6TG0KF0>
+
+<p> Scientists have just discovered that the extreme drought bedeviling America's midsection [1] is being caused by a gigantic halo of hot gas surrounding the Milky Way.
+<p> Okay, okay... We're kidding about the cause of the drought -- but not about that gas cloud, which is a few hundreds of thousands of light years in diameter, weighs about as much as all the stars in our galaxy put together, and which may solve the long-running question of where around half of the baryons in our galactic neighborhood are hiding.
+<p> Baryons, as you'll recall from your high school physics class, are subatomic particles such as protons and neutrons that are comprised of three quarks. Well-accepted and tested theories of the formation and evolution of the universe suggest that our little corner of the universe should have about twice as many baryons as can be calculated to be in our stars, planets, etcetera.
+<p> But where are those li'l dickens? Well, according to a paper [2] in The Astrophysical Journal , they appear to be in a massive, highly diffuse, heretofore undetected gas cloud, simmering away at somewhere between 1 million and 2.5 million Kelvin -- a few hundred times hotter than the surface of the sun.
+<p> Quite a toasty place, it seems.
+<p> No, this isn't a photo of the Milky Way's gasbag -- but if it were, NASA wouldn't reveal which aliens snapped it (click to enlarge) [3]
+<p> The cloud was detected and measured by astroboffins using data from NASA's Chandra X-ray Observatory [4], the European Space Agency's XMM-Newton [5] satellite, and the Japan Aerospace Exploration Agency's Suzaku [6] satellite, which examined the absorption by oxygen ions in the cloud of X-rays from eight exceedingly powerful sources located hundreds of millions of light-years away.
+<p> Ain't science grand?
+<p> "Our work shows that, for reasonable values of parameters and with reasonable assumptions, the Chandra observations imply a huge reservoir of hot gas around the Milky Way," one of the paper's co-authors, Smita Mathur of Ohio State University, said [7] in a NASA statement announcing the discovery.
+<p> It's not yet known exactly how Brobdingnagian the gas ball is. "It may extend for a few hundred thousand light-years around the Milky Way," said Mathur, "or it may extend farther into the surrounding local group of galaxies."
+<p> For its part, NASA buys the study's conclusions. "Although there are uncertainties," they say, "the work ... provides the best evidence yet that the galaxy's missing baryons have been hiding in a halo of million-kelvin gas that envelopes the galaxy."
+<p> Or as Mathur put is, "Either way, its mass appears to be very large." r
+

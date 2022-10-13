@@ -1,0 +1,22 @@
+<0184429>
+<http://www.itpro.co.uk/644158/silver-tail-systems-flags-business-logic-abuse-risk-to-uk-firms>
+<Rater 1: NA_NE * QU * N * ID: A57HLQXXSX49M>
+<Rater 2: NA_NE * QU * N * ID: AZTHBV93S8U3T>
+<Rater 3: NA_NE *  * N * ID: A2LKQQ3GNDQ017>
+<Rater 4: NA_NE *  * N * ID: A2SPN23MCH9RKP>
+
+<p> According to the firm, BLA is the term used to describe when hackers abuse the legitimate functionality of websites for malicious reasons or financial gain.
+<p> Speaking to IT Pro , Jason Steer, solutions architect for EMEA at Silver Tail Systems, said it can be difficult for companies to detect BLA attacks, but any business with an online presence is at risk.
+<p> A criminal doesn't behave in the same way a normal customer does.
+<p> "We see successful attacks happening on ecommerce and banking sites where the [perpetrator] can be in and out in seconds and the business doesn't know about it until a consumer flags up that they have lost an amount of money, for example," he said.
+<p> Research carried out by the Ponemon Institute on behalf of Silver Tail Systems, featuring responses from 400 UK firms, claims that one in five businesses lose more than five per cent of their annual revenue to BLA.
+<p> The economic impact of BLA can be keenly felt as many online businesses do not have financial buffers in place to protect them from criminal activity.
+<p> "In the bricks and mortar retail world, there's this concept called shrinkage...that if something in their shop gets knocked over or broken, it will not affect the bottom line because it is built into their business plan," he said.
+<p> "In the online world, there is rarely any accommodation made[for that sort of thing]."
+<p> Steer warned that it can be difficult for companies to tell the difference between a criminal and a legitimate shopper, but there are a few telltale signs, advised Steer.
+<p> "A criminal doesn't behave in the same way a normal customer does. Someone clicking through a website would follow a common sequence of pages because that's the way it is designed," he said.
+<p> "What you need to keep tabs on is if this user is jumping through an odd sequence of web pages and visiting ones no one goes to anymore."
+<p> Nick Edwards, vice president of marketing at Silver Tail Systems, said there are ways and means of protecting a business against BLA.
+<p> "[These] attacks can cripple a company in the short-term and create long-term damage to organisations' reputations," said Edwards.
+<p> "UK companies need to put provisions in place to identify these threats and protect not only themselves, but also the customers....by monitoring real-time data from their web traffic."
+

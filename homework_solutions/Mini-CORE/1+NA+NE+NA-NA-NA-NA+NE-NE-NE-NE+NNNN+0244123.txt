@@ -1,0 +1,45 @@
+<0244123>
+<http://online.wsj.com/article/SB10001424052748704076804576180681670512722.html>
+<Rater 1: NA_NE * RC * N * ID: A1IFF4KV23FGHJ>
+<Rater 2: NA_NE * RC - QU * N * ID: A3HTLXAPOBCVVO>
+<Rater 3: NA_NE * RC - QU * N * ID: A3QGNYMQNUC6HM>
+<Rater 4: NA_NE *  * N * ID: A1ZFLC209CRCWR>
+
+<p> Dow Jones Reprints: This copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers, use the Order Reprints tool at the bottom of any article or visit www.djreprints.com
+<p> A hypothetical map of New York state's congressional districts made with 'Dave's Redistricting App.'
+<p> Just in time for the once-a-decade process of redrawing U.S. House lines, a set of computer programs for hobbyists has arrived that bring redistricting to the basement.
+<p> Mr. Nelson, who lives in Minnesota, has spent the wee hours in his studio apartment eliminating Pennsylvania's mangled 12th House district, part of which resembles a deformed, backward capital "E." He streamlined Maryland's third district, a Democratic stronghold that starts north of Baltimore, works around the city center and snakes down to Annapolis, 40 miles south.
+<p> "It looks like some geographical Rorschach test," he says. "You don't need to make it like that."
+<p> Americans have long marveled at the shape of U.S. House districts, which over the years have grown odd and misshapen as parties reach across miles to grab a certain neighborhood, or to exclude a certain subdivision.
+<p> States this year are redoing the boundaries, a process kicked off by the 2010 Census, and will release new maps in coming months. Alongside them will be a cadre of map geeks and political junkies who have taken up redistricting as an obsession, a competition and a form of art.
+<p> Steve Dunn
+<p> "Dave's Redistricting App," has generated a zealous following on Internet message boards and politics blogs. Self-declared cartographers spend hours drafting and arguing over new legislative boundaries. Steve Dunn, 60, of Orange County, Calif., says on a few days he's mapped for 10 hours straight.
+<p> Mr. Dunn set out to see if voters in Western Pennsylvania could be rearranged to help the GOP. He packed Democratic voters into Pittsburgh, creating a new district that starts in the city and extends tentacles along the city's rivers to take in blue-collar Democrats.
+<p> "Look at the map," Mr. Dunn, an attorney, said. "It's just a gorgeous octopus."
+<p> Rep. Mike Doyle, the Democratic congressman who would represent the octopus surrounded by Republicans, isn't so sure.
+<p> "Isn't technology wonderful?" said Mr. Doyle after looking at an email of his hypothetical district. "Some guy from California drew a map. In Pittsburgh, there are two words for that: Who cares?"
+<p> The new redistricters run along two tracks: Some, in a fit of civic virtue, seek to draw maps that better reflect voter communities; others challenge each other to create the most Machiavellian scenarios possible.
+<p> "There's sort of a cruel art to it," said Mark Miller, 20, a student at the University of Maryland. "It's the idea politicians get to pick their constituents rather than the other way around, which sounds like the opposite of democracy."
+<p> One online contest called for mapping New York so that every congressional district would likely elect a Democrat. A popular solution: Cut the state into horizontal strips that dive along the state's east coast and dip the Democratic voter-well of New York City. Mr. Miller calls it the "baconmander."
+<p> "Those long skinny districts are not going to cut it," one commenter said. Another said: "It looks like the state's been sliced up like a bell pepper under the knife of a masterful chef!"
+<p> Mr. Miller posted a map at 1 a.m. Christmas Eve showing his idea of what Missouri might look like after it loses a Congressional seat this year. It prompted a debate that ran to 100 comments through 3 a.m. Christmas Day. The mappers haggled over whether Mr. Miller's lines would pass muster with Missouri's Democratic governor, or whether a court would have to settle the matter. "It's a wild card," Mr. Miller conceded to one commenter.
+<p> The Show Me State will lose a congressional seat this year because of slow population growth. Mr. Miller's map would put Democratic Rep. Russ Carnahan of St. Louis out of a job come 2012.
+<p> A spokeswoman for Mr. Carnahan said: "We are always thrilled to hear people are so engaged in the democratic process that they're staying up late at night looking at congressional maps." She declined to comment on Mr. Miller's handiwork.
+<p> U.S. politicians have fiddled with district boundaries for as long as there have been boundaries with which to fiddle. Patrick Henry unsuccessfully tried to keep James Madison out of Congress with Virginia's first House map, according to several redistricting experts. In 1812, Massachusetts Gov. Elbridge Gerry approved a map of state Senate districts, one of which resembled a salamander. A newspaper editor dubbed it a gerrymander.
+<p> One Web app asks users to embellish on what they see in district boundaries. People found ways to create a camel head (Kansas' second); a roller skate (Colorado's third); and a dog poking its head out of a car (Illinois' 18th).
+<p> Now that citizens can proffer their own alternatives, redistricting, usually the epitome of backroom politicking, might get some public scrutiny. In January, at an event at the Brookings Institution in Washington, D.C., two mapping experts introduced their own redistricting software with the goal of giving citizens tools to track the work of legislators.
+<p> A complex web of court cases, laws and population data govern redistricting. Rules are so arcane that accurately mapping with hobbyist tools is difficult.
+<p> It's also a lonely calling, says Mr. Nelson, a self-described cartography geek. When he's tried to impress his parents with his political creativity, "They say 'Oh, that's nice,'" he said.
+<p> President of the Maryland state Senate Thomas V. Mike Miller Jr. says drawing the maps is a complicated process. Maryland's second and third congressional districts, which cover Baltimore, are sometimes cited as some of the oddest in the country.
+<p> "I've done redistricting. I did it in the '70s, '80s, '90s," Mr. Miller said. "There were obvious reasons the lines were drawn the way they were."
+<p> Mr. Nelson agreed -- to an extent. "He probably does have more experience," Mr. Nelson said. But he fantasized about a future when Maryland's third district would look something like his rendition. That would be "exceptionally impressive," he said.
+<p> This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit
+<h> Journal Community
+<h> Hello
+<p> Your question to the Journal Community Your comments on articles will show your real name and not a username. Why?
+<p> Why use your real name? The Journal Community encourages thoughtful dialogue and meaningful connections between real people. We require the use of your full name to authenticate your identity. The quality of conversations can deteriorate when real identities are not provided.
+<p> Please enter your first and last name
+<p> First name:
+<p> Last name:
+<p> Create a Journal Community profile to avoid this message in the future. (As a member you agree to use your real name when participating in the Journal Community)
+

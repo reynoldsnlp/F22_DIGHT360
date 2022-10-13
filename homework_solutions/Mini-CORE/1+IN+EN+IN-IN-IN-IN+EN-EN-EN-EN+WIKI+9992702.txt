@@ -1,0 +1,9 @@
+<9992702>
+<http://en.wikipedia.org/wiki/Front_of_House>
+<Rater 1: IN_EN * Wiki>
+<Rater 2: IN_EN * Wiki>
+<Rater 3: IN_EN * Wiki>
+<Rater 4: IN_EN * Wiki>
+<p> In the performing arts, front of house (abbreviated FOH ) is the portion of a performance venue that is open to the public. In theatre and live music venues , it is the auditorium and foyer , as opposed to the stage and backstage areas. In theatre, the front of house manager is responsible for ticket sales, refreshments, and making sure auditorium is set out properly.
+<p> Lighting and sound operators, excluding the monitor engineers, are normally positioned in a small sectioned-off area front of house, surrounded by the audience or at the edge of the audience area. From this position they have unobstructed hearing and a clear view of the performance, enabling the operation of the main speaker system, show control consoles and other equipment. In this case Front of House can refer to both the general audience/public area or to the specific small section from where the show is mixed.
+<p> The front of house speakers are the main speakers that cover the audience, and the front of house desk is the desk that generates the front of house audio mix. In smaller venues the front of house desk may also produce foldback (monitor) mixes for the monitor speakers onstage, whereas in larger venues there will normally be a second mixing desk for monitor control positioned just off the side of the main stage. The audio engineer that designs the front of house sound system and puts it into place for the show/event is the system engineer, and this role is often separate from the person who operates the mixing desk who is often employed by the band directly.

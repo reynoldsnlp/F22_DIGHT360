@@ -1,0 +1,15 @@
+<0776532>
+<http://www.adamsmith.org/blog/economics/were-all-poorer-than-we-need-to-be-because-government>
+<Rater 1: OP_OB * RC * N * ID: A1G8ATI1XR2HWT>
+<Rater 2: OP_OB * RC * N * ID: A1R7CJMWXC79UO>
+<Rater 3: OP_OB * RC * N * ID: A1U8SG1ZKX48GG>
+<Rater 4: OP_OB *  * N * ID: A33SMNMTMIOJ6T>
+
+<h> We're all poorer than we need to be: because government
+<p> It's one of those definitional little things that causes such problems when you start to unravel it. How do we measure the influence of government spending upon GDP?
+<p> The problem is that it's exceedingly difficult to really measure the value of some to all of the things that government does. Thus we simply assume that the effect on GDP of government spending is the amount of that government spending. This is one reason why the Keynesian prescription that the way to raise GDP is to increase government spending "works". Because that's how we've defined it at the start.
+<p> However, there are, as we've all noted, certain inefficiencies in having things carried out by the men with clipboards. The accretion of stultifying bureaucracies that market based systems would sweep away. How big is that inefficiency? An interesting paper from the World Bank :
+<p> There are obviously glaring differences in the efficiency with which governments spend money on health care, education, roads etc., not only over time in a country, but also among countries. Therefore, as absenteeism of teachers and health workers, overruns in costs of building roads, and other aspects are not taken into account, directly comparing the government part of GDP -- and thus total GDP -- among countries may be misleading. Generous wage raises in the public sector may even be straightly counted as increases in productivity.Grigoli and Ley conducted an interesting exercise. Using indicators of government expenditure inefficiency ("waste") in health and education for a group of 24 countries, and using one of them (Singapore) as a benchmark for best practice, they corrected the other GDPs accordingly to gauge how misleading it is to compare figures obtained through conventional methodologies. On average, meaningful GDP figures should be 4.1 percent lower, with the loss associated with wasted public resources reaching 7.8 percent in Portugal.
+<p> 4% of GDP is a pretty large number. Near 60 billion: we're collectively poorer by that much here in the UK because we let government run the health and education sectors. Which indicates that it's pretty much a free lunch in getting them to be more market orientated, isn't it?
+<p> Yes, I know, there is no such thing as a free lunch: but this is only true when we do not have inefficiency in the system. The eradication of inefficiency is in fact  that free lunch which does not exist.
+

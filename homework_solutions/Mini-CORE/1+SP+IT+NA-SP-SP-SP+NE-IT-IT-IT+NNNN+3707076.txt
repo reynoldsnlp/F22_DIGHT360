@@ -1,0 +1,43 @@
+<3707076>
+<http://www.army-technology.com/features/featurecyber-crime-security-forensics-london-olympics-2012>
+<Rater 1: NA_NE * QU * N * ID: A1CTJ8UT7SF317>
+<Rater 2: SP_IT *  * N * ID: A1XM0SQUNC4EFH>
+<Rater 3: SP_IT *  * N * ID: A1ZFLC209CRCWR>
+<Rater 4: SP_IT *  * N * ID: A3L60SOWLYEDN2>
+
+<h> Discussing cybercrime ahead of London's 2012 Olympics
+<p> 26 April 2012
+<p> A huge dependence on IT will mean that cyber security is as essential as physical security for the 2012 Olympic Games. Berenice Baker spoke to Denis Edgar-Nevill, chair of cybercrime forensics with the British Computer Society (BCS), about potential cyber threats to the Games and how the government is planning ahead.
+<p> Berenice Baker: Do you feel like cybercrime is the poor cousin as far as security for the Olympic Game is concerned?
+<p> Denis Edgar-Nevill: There are a number of political figures who have really raised the awareness of cyber security [before] the 2012 London Olympic Games, such as David Blunkett. To some extent cyber security is very well covered.
+<p> Consider the Beijing Olympics in 2008, which was always going to be a target for cyber attacks by political demonstrators protesting about issues such as the annexation of Tibet. There were at the time something like 12 million security threats every day all the way through the Olympics, but very few of them caused any damage at all to the Olympic websites.
+<p> The first real electronic attacks against the Games can be traced back to 1980, and although it's an increasing problem, the threat has been very well managed. Any direct threat would be in the form of distributed denial of service attacks, but I believe these issues are very well understood and I don't think there will be a capacity problem with the Olympic websites.
+<p> BB: Aside from attacking Olympic websites what other cyber threats are there?
+<p> "The Police Central e-Crime Unit (PCeU) was set up a few years ago and one of its main responsibilities was looking at the whole process for cyber security leading up to the Games."
+<p> DE-N: The Olympic organisers are almost paranoid about cybercrime because it's a very real threat that has happened at almost every Olympics event in the modern era, particularly ticketing. That's not surprising because ticketing is the area where money changes hands, especially on the black market.
+<p> Tickets for that wonderful opening ceremony Beijing Olympics were changing hands just before the event for $26,000 each, for example, and a gang of touts were recently jailed for a 5m ticketing scam during the 2008 Games.
+<p> This is why the organisers of London 2012 are concentrated on the ticketing process, albeit not to everyone's taste.
+<p> There's also a whole range of associated minor frauds, such as those relating to people renting out their houses near the Olympic sites during the Games, or an Olympic spin to the standard lottery email fraud.
+<p> BB: What about threats to the electronic information infrastructure behind the Games?
+<p> D-EN: When Britain won the right to host the games, no-one could have predicted the rise in mobile electronic devices. The Games this year will be different to any previous Games because there are so many more people wandering around with mobile computing devices, all squawking in Bluetooth and Wi-Fi and interacting with hot-spots.
+<p> Enormous care has been taken to ensure that people are able to use these mobile devices around the Olympic venues, but also to protect the Olympic infrastructure from them is something, which has also been thought of a long time in advance. They were clearing radio frequencies for Wi-Fi use a number of years ago making the space so that the noisy data exchange, the information traffic, wasn't going to be a problem, either in capacity or as a potential threat.
+<p> BB: Is there a single point of responsibility for cyber security in the Olympics?
+<p> D-EN: The Police Central e-Crime Unit (PCeU) was set up a few years ago and one of its main responsibilities was looking at the whole process for cyber security leading up to the Games. They've been partly responsible, for example, for deciding which companies to allocate a wide range of different areas of the security to.
+<p> The basic security process has been ongoing from the start. For example, biometric security was used on the main Olympic stadium building site for people to enter and exit. Years ago, people were already worrying about technological solutions to improve the security.
+<p> BB: Much of the physical security at the Games is also dependent on electronics. Is this a risk?
+<p> D-EN: I think we've got to avoid going over the top because you can think of terrible scenarios if people takeover the whole of the electronic infrastructure and cause damage.
+<p> "When Britain won the right to host the games, no-one could have predicted the rise in mobile electronic devices."
+<p> We've got to give credit to the many companies and organisations that have been working over the past 20 years to improve security.
+<p> The Olympics is a huge machine, and all aspects right down to the timing of events on particular days have been under scrutiny for many years. But of course new technology brings new issues and new clever ways of causing damage.
+<p> Genuine threats are more mundane. One of the guys at BT [the official communications services partner of the London 2012 Olympic and Paralympic Games] said about Usain Bolt's gold medal winning performance in Beijing: "Think about how you'd feel if the network manager came up to you afterwards and had to explain why the network had gone down during those ten seconds."
+<p> Although somebody could do something very dramatic to draw attention to themselves, if a mundane but catastrophic failure occurs with the electronic systems, we would be a laughing stock as a country and they wouldn't let us host anything for many years.
+<p> BB: With each Olympiad more and more is dependent on those electronic systems.
+<p> "The first real electronic attacks against the Games can be traced back to 1980, and although it's an increasing problem, the threat has been very well managed."
+<p> D-EN: It is, but these systems also get more and more robust, and people have been designing systems for the Olympic Games for 20 years. However you have to recognise they are definitely a target because it's so high profile, bringing hundreds of millions, if not billions, of people watching on TV, so it's a great platform for someone promoting a cause.
+<p> The events themselves are increasingly dependant on electronic measuring too. In one example of a technical failure, Mexico 1968 was dramatic not just for the famous black power salute, but because it was the first Olympic Games at altitude. Bob Beamon increased the world record for the long jump by more than a foot.
+<p> They measured the jump using an optical sensor running along a track by the side of the pit. Because his jump was so long, no one guessed the sensor would have to travel so far, and it fell off the end of the rail.
+<p> These days we're becoming more sophisticated and we want to measure everything instantly down to the last thousandth of a second; you can't run athletics events using stop watches any more.
+<p> D-EN: In terms of politics, we're probably less of a target, but we live in a world with all sorts of weird and wonderful bodies launching attacks on the Internet. Not just private organisations like Anonymous and LulzSec, but also cyber warfare by nation states.
+<p> Practically every country in the world has been gearing up to address the growing threat to national infrastructure which is posed by cyber war. As soon as you start getting nation states involved with huge resources behind them to create cyber weapons, you're into a different ballgame.
+<p> If the same sorts of resources were launched against the Olympics as produced the Stuxnet worm that targeted the Iranian nuclear development programme, then it might be a very different matter.
+

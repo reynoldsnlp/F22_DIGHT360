@@ -1,0 +1,33 @@
+<0410815>
+<http://gotothecloud.co/Why-go-to-the-cloud.html>
+<Rater 1: IP_DS * OP * N * ID: A10GZ0SWBZIRBK>
+<Rater 2: IP_DS *  * N * ID: A1DDMH7ZRC2TA1>
+<Rater 3: IP_DS *  * N * ID: AC5LU9TF9CTK9>
+<Rater 4: IP_DS *  * Y * ID: AQR70X1KIOP6B>
+
+<h> Why go to the Cloud ?
+<h> Here are 10 of the most popular reasons our customers tell us why they go to the cloud
+<h> Lower costs for IT -- Capex VS. Opex
+<p> Conservation of Capital/Cash is King in this economy! The credit we once had available to us is now gone AND its not coming back for a long time! The Cloud can bring to  you a whole new environment or improved business system with no capital outlay!
+<h> Everything is "handled"
+<p> With your business systems up in the cloud and with a 99.9% guaranteed uptime there really isn't much left to worry about. Any device that you have at your office will only require minimum maintenance and monitoring, which of course is all handled by us.
+<h> Nothing on site to own, update, or manage
+<p> Now the cloud provider has to worry about the backup, now they're responsible for maintaining, designing, and the big investments on on-going software and hardware upgrades. All of this while meeting the very high 99.9% uptime!
+<h> 100% New infrastructure
+<p> Those old servers in your office can now rest in peace. They may be useful for additional backup or archiving but you will now experience only what the blue chip companies experience with enterprise class servers and network infrastructure!
+<h> Automated Backups
+<p> With your data in the cloud in our secure datacentres it will be replicated amount 3 different datacentres within the UK and 1 in the US, and we also include a standard 2 week rotation of your data just in-case you lose something.
+<h> Guaranteed business continuity
+<p> We have your business systems replicated between 3 different datacentres within the UK and 1 in the US, and we also include a standard 2 week rotation of your data just in-case you lose something. To top this we include what we call a "reverse backup" to your location on a USB drive we give to you. Just for added re-assurance.
+<h> All new applications and operating systems
+<p> You will get a brand new copy of Windows for all of your staff and the latest Microsoft server platforms on your servers infrastructure at our datacentres.
+<h> Unlimited automatic software upgrades
+<p> We will make sure that every time Microsoft updates their software (and we know they do this a LOT) you get the update as well at absolutely no extra cost. This includes on your desktop and on the servers like Exchange server for example.
+<h> Automatic redundancy built into everything
+<p> With 3 different datacentres in the UK and 1 in the US all replicating with each other, and a standard 2 week rotation of your data just in-case you lose something. We can guarantee a 99.9% uptime for your business systems. To top this we include what we call a "reverse backup" to your location on a USB drive we give to you. Just for added re-assurance.
+<h> Access to business systems from anywhere, anytime, any device
+<p> We recognise that you are becoming more dependent on the access to your business systems from anywhere anytime. Let's face it, its' no longer about the device we use, it's now all about the delivery method.
+<h> Summarized the Cloud delivers a completely new environment for less than the cost of maintaining the old one!
+<h> Free "Cloud Readiness" Consultation Will Give You The Facts
+<p> If you want to know if cloud computing is right for you, call us for a free, no-pressure, no-obligation cloud readiness assessment. We'll evaluate your current situation and provide insights and options for moving to the cloud. We'll also answer any questions you have and tell you the unvarnished pros and cons of choosing this option.
+

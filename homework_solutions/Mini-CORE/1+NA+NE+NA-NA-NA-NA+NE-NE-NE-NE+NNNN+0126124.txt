@@ -1,0 +1,25 @@
+<0126124>
+<http://www.channelregister.co.uk/2012/11/13/fujitsu_cloud_office/>
+<Rater 1: NA_NE * RC - QU * N * ID: A15EZJS1DROADE>
+<Rater 2: NA_NE * RC - QU * N * ID: A1O0BGHFTMPQM0>
+<Rater 3: NA_NE *  * N * ID: A13WSYKUN4EAHW>
+<Rater 4: NA_NE *  * N * ID: A2VVS4LIGTM7V6>
+
+<h> iOS Office is more about licencing than tech
+<p> Exclusive Fujitsu Technology Solutions is in talks with Microsoft which could see it offer Redmond's Office Application suite via the Personal Cloud Service, which the Japanese tech firm hopes to trial with customers next year.
+<p> The server and services firm unveiled its Personal Cloud service at its user Forum event in Munich last week, describing it as an internal pilot which will give users access to their workplace and business applications via a "Personal Cloud", which is run on the Fujitsu Global Cloud Platform.
+<p> The service will allow users to access their "Personal Cloud" on virtually any device that could run an HTML5 browser, whether via conventional corporate LANs or public and cellular networks.
+<p> The vendor highlighted messaging and email apps and business apps in a keynote presentation on the service.
+<p> However, Fujitsu Technology Solutions CTO Dr Joseph Reger told The Register it would be able to deliver Microsoft's full suite of productivity applications via the Personal Cloud service to virtually any machine, including iOS and Android devices.
+<p> He said the service would provide full applications running in the cloud, viewable on any device, including mobile phones and tablets: "It does nothing on the device. It doesn't even assume storage."
+<p> The only hurdle to be surmounted is licensing, said Reger.
+<p> The process could be slightly more straightforward where a company already had the appropriate licence for the applications, with Fujitsu setting up a "dedicated environment with the licenses of the customer", he said.
+<p> However, Reger described this as still "far from simple", as the exact licence and support issues would need to clarified for each customer.
+<p> "What we are trying to do is not really different from regular SBC (server based computing)," he said this week. "In our case however, there is no need for the clients' side, as we use the Personal Cloud and the HTML5 App gateway."
+<p> Fujitsu is also talking with Microsoft about supplying Office through its Fujitsu Cloud Store service. This is more complicated as the licence models have simply not been developed yet, said Reger, and there is no firm plan as yet for such a service.
+<p> "We will be able to provide them [the applications] though a contract with Microsoft," he said. "All the technology issues have been taken care of."
+<p> Most of Fujitsu's potential customers are asking for personal productivity applications to be delivered this way, he said. So if the firm cannot reach a deal with Microsoft it will need to look to offer another implementation.
+<p> From there it's a short leap of logic to customers eventually buying very short-term, pay-as-you-go access to full applications from Microsoft via Fujitsu's platform. Again it is the licensing issues, rather than technology issues, which would hold up such a service.
+<p> The Personal Cloud service is currently running as an internal trial at Fujitsu. Assuming the firm is happy with the results, Reger said he hoped to move to customer trials early next year.
+<p> "I don't expect this to be longer than two to three months," he said, adding that the software could be set up "in a day".
+

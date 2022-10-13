@@ -1,0 +1,42 @@
+<9992575>
+<http://en.wikipedia.org/wiki/Flag_of_Nepal>
+<Rater 1: IN_EN * Wiki>
+<Rater 2: IN_EN * Wiki>
+<Rater 3: IN_EN * Wiki>
+<Rater 4: IN_EN * Wiki>
+<h> Flag of Nepal
+<p> Combination of two red pennons with a blue border, with a sun and crescent moon
+<p> The national flag of Nepal ( Nepali : ??????? ?????) is the world's only non- quadrilateral national flag. The flag is a simplified combination of two single pennons , the vexillological word for a pennant. Its crimson red is the colour of the rhododendron , the country's national flower. Red is also the sign of victory in war. The blue border is the colour of peace. Until 1962, the flag's emblems, the sun and the crescent moon, had human faces. They were removed to modernize the flag.
+<p> The flag was adopted, with the formation of a new constitutional government, on December 16, 1962. The individual pennants had been used for the preceding two centuries and the double pennant since the 19th century. The flag borrows the basic design from the original design, which has been in use for more than 2,000 years. [ citation needed ]
+<h> Contents
+<p> The blue border symbolizes the peace and harmony that has been prevalent in the country since the age of Gautama Buddha , who was born in Nepal. [ discuss ] The crimson red is Nepal's national colour, and it indicates the brave spirits of the Nepalese people. The two triangles symbolize the Himalaya Mountains and could also represent the two major religions, Hinduism and Buddhism. [ 1 ] The red triangular flag has been a Hindu symbol of victory since the time of Ramayana and Mahabharata . The depiction of celestial bodies represents permanence, the hope that Nepal will last as long as the sun and the moon. The moon symbolizes that the Nepalese are soothing and calm, while the sun symbolizes fierce resolve. The moon also symbolizes the shades and the cool weather of the Himalayas , whereas the sun symbolizes the heat and the high temperature at the lower part ( Tarai ) of Nepal. Another interpretation: The flag's shape could also symbolize a Nepalese pagoda - as noted by local Nepalese, placing a mirror at the side of the flag closest to the flagpole will generate an image of a pagoda.
+<p> To the Independent Hindu kingdom of Nepal all Hindudom feels itself most loyally attached and would ever strive to strain every nerve in defending its honour and integrity. It is the only part of our Mother Land which continues down to this day as a Dharma Kshettra unsullied by the humiliating shadow of an alien non-Hindu Flag.
+<p> (1) On the lower portion of a crimson cloth draw a line AB of the required length from left to right.
+<p> (2) From A draw a line AC perpendicular to AB making AC equal to AB plus one third AB. From AC mark off D making line AD equal to line AB. Join BD.
+<p> (3) From BD mark off E making BE equal to AB.
+<p> (4) Touching E draw a line FG, starting from the point F on line AC, parallel to AB to the right hand-side. Mark off FG equal to AB.
+<p> (5) Join CG.
+<p> (B) Method of Making the Moon
+<p> (6) From AB mark off AH making AH equal to one-fourth of line AB and starting from H draw a line HI parallel to line AC touching line CG at point I.
+<p> (7) Bisect CF at J and draw a line JK parallel to AB touching CG at point K.
+<p> (8) Let L be the point where lines JK and HI cut one another.
+<p> (9) Join JG.
+<p> (10) Let M be the point where line JG and HI cut one another.
+<p> (11) With centre M and with a distance shortest from M to BD mark off N on the lower portion of line HI.
+<p> (12) Touching M and starting from O, a point on AC, draw a line from left to right parallel to AB.
+<p> (13) With centre L and radius LN draw a semi-circle on the lower portion and let P and Q be the points where it touches the line OM respectively.
+<p> (14) With centre M and radius MQ draw a semi-circle on the lower portion touching P and Q.
+<p> (15) With centre N and radius NM draw an arc touching PNQ [sic] at R and S. Join RS. Let T be the point where RS and HI cut one another.
+<p> (16) With Centre T and radius TS draw a semi-circle on the upper portion of PNQ touching it at two points.
+<p> (17) With centre T and radius TM draw an arc on the upper portion of PNQ touching at two points.
+<p> (18) Eight equal and similar triangles of the moon are to be made in the space lying inside the semi-circle of No. (16) and outside the arc of No. (17) of this Schedule.
+<p> (C) Method of making the Sun
+<p> (19) Bisect line AF at U and draw a line UV parallel to line AB touching line BE at V.
+<p> (20) With centre W, the point where HI and UV cut one another and radius MN draw a circle.
+<p> (21) With centre W and radius LN draw a circle
+<p> (22) Twelve equal and similar triangles of the sun are to be made in the space enclosed by the circles of No. (20) and of No. (21) with the two apexes of two triangles touching line HI.
+<p> (D) Method of Making the Border
+<p> (23) The width of the border will be equal to the width TN. This will be of deep blue colour and will be provided on all the sides of the flag. However, on the five angles of the flag the external angles will be equal to the internal angles.
+<p> (24) The above mentioned border will be provided if the flag is to be used with a rope. On the other hand, if it is to be hoisted on a pole, the hole on the border on the side AC can be extended according to requirements.
+<p> Explanation: The lines HI, RS, FE, ED, JG, OQ, JK and UV are imaginary. Similarly, the external and internal circles of the sun and the other arcs except the crescent moon are also imaginary. These are not shown on the flag.
+<p> According to the stated geometric construction law, the circumscribing rectangle has a ratio of 1:1.21901033... ( A230582 ).

@@ -1,0 +1,16 @@
+<3157659>
+<http://blog.planetargon.com/entries/2012/9/25/portland-the-best-city-in-the-country-for-developers>
+<Rater 1: OP_OB * RC * N * ID: A27IABVBUZ9X8Z>
+<Rater 2: OP_OB * RC * N * ID: A9K0CV70JWG1W>
+<Rater 3: OP_OB * RC * N * ID: AC5LU9TF9CTK9>
+<Rater 4: OP_OB * RC * N * ID: AGTT8VLD53WNV>
+
+<h> Elsewhere
+<h> Portland the best city in the country (for developers)?
+<p> The folks over at appfog have put together an extensive argument for why Portland could be the best city in the United States for developers.... and covered a lot of compelling things related to the local developer ecosystem.
+<p> Having said that... they missed everything around Portland that makes me stay in the area. All the hiking within 60 miles of Portland (there are even several trails within the city limits!), all of the rivers for kayaking, windsurfing, the snow resorts, all of the camping and backpacking that we can explore... etc.
+<p> Outside of getting immersed into your craft, it's nice to get out of the city to ponder those technical challenges while on a hike.
+<h> Have some thoughts about this? Share it with us below.
+<h> About Robby Russell
+<p> Robby is our Chief Evangelist and Founding Partner. In late 2004, he was introduced to Ruby on Rails and soon started a blog, robbyonrails.com , to share his learnings about, what at the time was, an exciting new framework. In the years following, Robby has had the opportunity to speak about Rails in the US, Canada and the UK. These days, Robby is focused on technical strategy, mentoring the development team, and building relationships with current and new clients. Outside of the studio, he enjoys writing and playing music, hiking, photography, reading, movies, and keeping up on his favorite soccer teams, which include Liverpool and the Portland Timbers .
+

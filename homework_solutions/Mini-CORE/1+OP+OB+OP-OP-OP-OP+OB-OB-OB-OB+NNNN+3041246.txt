@@ -1,0 +1,57 @@
+<3041246>
+<http://paulfwalsh.com/google-throws-its-toys-out-of-the-pram/>
+<Rater 1: OP_OB * RC * N * ID: A2EKR8RZJ75SR9>
+<Rater 2: OP_OB * RC * N * ID: A3ULWA2Q7U5VO0>
+<Rater 3: OP_OB * RC * N * ID: AV3GP5YAMSMSL>
+<Rater 4: OP_OB *  * N * ID: A3DF9EJ4V9H9ZR>
+
+<p> What started as a simple post about Google's response, turned into an epic message about how Apple, Google and Mozilla are not all good and Microsoft is not all evil. They are all pretty much after the same thing; market dominance. They just use different tactics. All of which are good and evil.
+<p> Google's response
+<p> Could Microsoft now attempt to exert the same sort of inappropriate and illegal influence over the Internet that it did with the PC?
+<p> Could the acquisition of Yahoo! allow Microsoft -- despite its legacy of serious legal and regulatory offenses -- to extend unfair practices from browsers and operating systems to the Internet?
+<p> We believe that the interests of Internet users come first -- and should come first -- as the merits of this proposed acquisition are examined and alternatives explored.
+<p> I'm playing devil's advocate here and certain to attract a retort from standards enthusiasts. If you're one of them, please take a look at the contribution Segala (and I) make to open standards.
+<p> In my opinion, Google's response has been childish to say the least. In fact, I'd like to call bullshit, which is a little stronger than Dennis Howlett's 'Pot, kettle, black' post.
+<h> The truth about Google
+<p> I've had enough of Google's so-called 'no evil' policy. Google may have started off with a best endeavours approach to add value to the Web, but it now seeks to increase its revenue share at the expense of relevant and trustworthy search results.
+<p> Did it ever start out to do no evil? A little company called Overture invented a means for combining search and advertising, with auction-based keyword targeted text ads. Yahoo bought Overture, then proceeded to sue Google, whice made sense: Google had completely ripped off Overture's concept, and was liable for every dollar it earned using that form of advertising.
+<p> Rather than aggressively fight the small search company, which was clearly infringing on Yahoo-owned patents with every dollar it earned, Yahoo settled, agreeing to take 2.7 million shares of Google, just over 1% of the company (at the time). Yahoo sold those shares as soon as Google went public, for $82.62 a share, or $223 million. Thanks to InsideMicrosoft for the stats and Steve Clayton for pointing me to them via Twitter.
+<p> How can Google say it 'does no evil' when it filters search on behalf of an oppressive Chinese Government? (Ok, I've now given reason for the Chinese Government to ban this blog, like it did with the Segala blog when I posted about a Chinese blogger who was killed by government officials.) If it had people's best interests at heart it wouldn't place advertising above freedom of speech.
+<p> How can Google say that it is a company with the Internet's interests at heart? If it did, it wouldn't make the highest bidders more prominent in search results. Instead, it would present to users, the most relevant and trustworthy Web sites. Paid search is not obvious to the vast majority of end users.
+<h> While I'm at it...
+<p> The Yahoo! takeover would enable Microsoft to compete with Google's monopolistic search engine. Google has approximately 80% of the global search market and doesn't permit anyone to see what's inside the box. Why? Well, because it gives them a competitive advantage, which it's entitled to. It only provides open access to APIs because it benefits them in the long run. They even provide products for free to help compete directly with Microsoft. I don't believe Google want to move to the desktop. I believe they just want to hurt Microsoft.
+<p> Android is another example. It'll be fantastic for the Mobile Industry but, the open source framework comes with Google applications preinstall. That's no different to Windows coming with Real Player embedded.
+<p> So what do I mean by monopolistic? Well, take a look at Mozilla Firefox (a non-profit do-gooder). Firefox is Microsoft's main competitor in the browser market. Google and Firefox couldn't be snuggled up any closer in bed with Firefox acting as Google's hot water bottle. I say this because Firefox has approximately 12% of the global market and its default search engine in the toolbar is Google, from whom it generates the majority of its revenue. Mozilla is now a $300m business.
+<p> Search engines such as Excite (my all time favourite) Altavista and Lycos all provided honest search results. That is, prominence was given to the Web sites which provided the most relevant content to search terms. Ok, so they had flaws, but at least they didn't sell out to the highest bidders like Google. Google in my opinion, hasn't added any value whatsoever to search. Please correct me if I'm wrong.
+<h> What I'd like to see happen
+<p> I'd like to see Yahoo! owned del.icio.us (what a dumb ass domain) given a face lift so it's easier for the longtail of users to adopt, thereby encouraging scale. Give users the option to integrate browser based bookmarks with del.icio.us bookmarks so we end up with a more extensive database of relevant search results.
+<p> Keep the Yahoo! brand but turn it into a search engine. Use the bookmarks as described above, as an engine to help provide more meaningful search results.
+<p> Use Yahoo! as the default search engine for Internet Explorer
+<p> Improve IE8 so it's more standards compliant, without introducing yet another tag to make the assertion about compliance
+<p> Embed all the cool Yahoo! stuff such as Flickr into IE
+<p> Employ or appoint better products people to take over Yahoo! properties
+<p> There's plenty more to talk about regarding their email and IM properties, but I'll leave the commentating about those to others. Feel free to leave your opinion.
+<p> Why do people continue to take a shot at Microsoft when companies such as Apple, Google and Mozilla are out for themselves just like anyone else? Microsoft has, and continues to be in trouble regarding their market dominance, but none of it is based on their new products. It's old news so move on.
+<p> Paul, I wonder if Google's reaction was due in part to the threat that a combined Microsoft/Yahoo poses in terms of social search?
+<p> I would expect that Microsoft would rationalise its search business (or in plain English, fire a lot of them). Yahoo has always been better at search and Microsoft's attempt to develop its own search only proven that its own dogfood is not very palatable. Perhaps Microsoft concentrated too much on the academic voodoo promise of the Semantic Web while the real players concentrated on the fuel of the search business - advertising.
+<p> John Battelle wrote about Google being a "database of intentions". I think that he only had part of the picture. The intentions are in the e-mails, personal recommendations and visitor activity. Privacy issues aside, the integration of social data into the search process will change the search business. And guess who has most of that social data - more even than Google?
+<p> @John "in plain English, fire a lot of them" Yes I agree totally. I'm not sure if IE supports the Semantic Web, does it - would like to learn more. I'm setting up a meeting with the IE team thanks to Steve Clayton in the hope I can encourage them to adopt Content Labels (based on the Semantic Web).
+<p> Social search could be achieved in part, by using del.icio.us and other tools?
+<p> I still think that Sematic Web is a bit down the road. But an SW supporting IE would be an amazing thing as it would create a very interesting angle for search in that some of the search process could be offloaded to the browser. However the main problem is getting websites to adopt SW labelling and tags. Even now, most sites don't bother with meta data. The webmasters expect the search engines to categorise everything.
+<p> The social search could be helped by del.icio.us and other tools but from my point of view, (as a supercruncher), it is the combined social data that Yahoo and Microsoft have that makes the merger a threat to Google. The recommendations, e-mail activity, the user activity - that's what powers social search.
+<p> 1) Content Labels will soon replace PICS - the W3C standard currently used by IE for content filtering. 2) W3C mobileOK conformance claims will come in the form of a Content Label. Following best practices alone won't be sufficient. 3) We intend to get more sites labelled for accessibility and mobileOK compliance via a global partner network - same business model as VeriSign for the provision of SSL Certificates. 4) We're going to launch an application soon which automatically creates Content Labels - we'll give this away for free to other Trustmark providers. 5) Creative Commons guys love Content Labels. We'll soon have a label for site owners to assert copyright claims. 6) ICRA already use Content Labels for assertions about content that's appropriate/inappropriate for minors. 7) Our Firefox extension is being used by the W3C Semantic Web Education and Outreach Special Interest group to demonstrate a real implementation of the Semantic Web. Lots more
+<p> @steve - there are enough people around to tip toe around. As you know I'm not one to mince my words, so why be any different online. I personally find it easier to get my point across when I'm direct.
+<p> Regarding Calacanis - I'm not surprised because I also thought of him whilst writing my post. That's mainly because he and I have met twice to discuss collaboration between Mahalo and Segala. Jason wants to enable more relevant search results and I want to enable more trust.
+<p> @Michele - glad you agree as it's sometimes difficult to go against the grain.
+<p> You said:"Keep the Yahoo! brand but turn it into a search engine. Use the bookmarks as described above, as an engine to help provide more meaningful searrch results."Methinks that already happened... Jan 19th.
+<p> I promised a comment yesterday on twitter. Here I am. Actually I'm asking if once MS has bought Yahoo! there will be more or less competition in search engine market. It's not easy to say.
+<p> The truth is I don't like too much MS because of its past, and present dominant position in pc market, and don't believe Google is "as evil as MS" for the web market.
+<p> Maybe it can seem silly to say, but I think I'm happy because MS has done a good shot, but I still stand for Google, hoping that nobody of the two pretenders will defeat the other, and even that others will come to play a fair opened match.
+<p> February 5th, 2008
+<h> Join the Discussion
+<p> Name *
+<p> Mail *
+<p> Website
+<p> We're constantly spammed by people who have as much life as the robots they use. So, we hope you don't mind if we moderate your comment if it's your first time on this blog.
+<p> The Irish Opportunist - A Founder, Chair, CEO, Mentor and Advisor to Internet and Mobile companies, who likes to speak his mind. More...
+

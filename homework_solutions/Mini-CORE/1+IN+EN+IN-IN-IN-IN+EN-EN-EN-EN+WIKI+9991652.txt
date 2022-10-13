@@ -1,0 +1,9 @@
+<9991652>
+<http://en.wikipedia.org/wiki/Course_of_Theoretical_Physics>
+<Rater 1: IN_EN * Wiki>
+<Rater 2: IN_EN * Wiki>
+<Rater 3: IN_EN * Wiki>
+<Rater 4: IN_EN * Wiki>
+<p> The Course of Theoretical Physics is a ten-volume series of books covering theoretical physics that was initiated by Lev Landau and written in collaboration with his student Evgeny Lifshitz starting in the late 1930s. It is said that Landau composed much of the series in his head while in an NKVD prison in 1938-39. [ 1 ] However, almost all of the actual writing of the early volumes was done by Lifshitz, giving rise to the often repeated witticism, "not a word of Landau and not a thought of Lifshitz". [ 2 ] The first eight volumes were finished in the 1950s, written in the Russian language , and translated into English by the late 1950s. The last two volumes were written in the early 1980s. Vladimir Berestetskii and Lev Pitaevskii also contributed to the series. The series is often referred to as " Landau and Lifshitz ", " Landafshitz " (rus. "  ") in informal settings. [ 3 ] [ 4 ]
+<h> Contents
+<p> The books are well known for their concise, elegant and accurate formulation of the laws of physics. Generations of physicists, both in Russia and around the world, have been educated in physics through this series. The presentation of material is advanced, requires a foundation of physics, and is suitable for graduate-level study.

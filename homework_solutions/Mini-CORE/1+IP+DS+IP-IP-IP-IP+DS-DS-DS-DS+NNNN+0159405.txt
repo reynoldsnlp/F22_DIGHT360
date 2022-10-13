@@ -1,0 +1,13 @@
+<0159405>
+<http://www.cornerhouse.org/bookstore/product/the-need-to-document>
+<Rater 1: IP_DS *  * N * ID: A1JO6AY55FG7QU>
+<Rater 2: IP_DS *  * N * ID: A1SUU1QIRDZXJC>
+<Rater 3: IP_DS *  * N * ID: A841FR9QWUPT4>
+<Rater 4: IP_DS *  * N * ID: A9K0CV70JWG1W>
+
+<h> Books
+<h> The Need To Document
+<p> 20.00
+<p> Art that understands itself as politically motivated is at present quite frequently falling back on documentary forms. This book attempts to make out the backgrounds leading to this turn towards documentation, as well as the thematic focuses and concerns associated with this new documentary stance.
+<p> The interests of new documentary working methods in art remain reflectively close to the inherent laws of all known documentary channels, but additionally assert their own special features and logic.
+

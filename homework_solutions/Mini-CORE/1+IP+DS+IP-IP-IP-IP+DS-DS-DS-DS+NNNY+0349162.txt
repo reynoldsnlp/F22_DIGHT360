@@ -1,0 +1,54 @@
+<0349162>
+<http://www.amazon.com/You-Want-Do-What-PHP/dp/1583470999>
+<Rater 1: IP_DS * RC * N * ID: A27PJPWGD1QVJP>
+<Rater 2: IP_DS * RC * N * ID: AIQU5HARE60W1>
+<Rater 3: IP_DS * RC * N * ID: A9IGTAK087DB9>
+<Rater 4: IP_DS * RC * Y * ID: AQAR1D3D3SA2N>
+
+<p> Important: Your credit card will NOT be charged when you start your free trial or if you cancel during the trial period. If you're happy with Amazon Prime, do nothing. At the end of the free trial, your membership will automatically upgrade to a full year for $79.
+<h> Formats
+<h> Book Description
+<p> A creative look at the fundamentals of PHP programming, this manual shows practical but atypical examples of PHP code. Theories, considerations, and varying options--such as binary protocols, character encoding or scaling PHP applications with messaging--are presented as new approaches to solving problems. Taking into consideration operating system level options, this programming reference goes beyond the basics to offer more advanced and innovative options for building PHP applications.
+<p> A creative look at the fundamentals of PHP programming, this manual shows practical but atypical examples of PHP code. Theories, considerations, and varying options--such as binary protocols, character encoding or scaling PHP applications with messaging--are presented as new approaches to solving problems. Taking into consideration operating system level options, this programming reference goes beyond the basics to offer more advanced and innovative options for building PHP applications.
+<h> Editorial Reviews
+<h> Review
+<p> This isn't your usual PHP book. Even advanced PHP developers don't have a book like this on their shelves as I've never read one that covers quite this variety of material. --blog.calevans.com/2010/12/28/book-repo\\...
+<h> From the Author
+<p> This book was written after working for several years as a consultant for Zend Technologies, prior to becoming our Technology Evangelist.  There are hundreds of "build a PHP website" books out there.  However, there are only a bare handful of books that go beyond that.  So many PHP books have good information for getting started but end up stopping right when the problems start getting interesting.  That's what I did with this book.  I undertook a smaller group of topics, but took them to their conclusion, in most cases.  Some of them, because it would become repetitive, I did not, but for the most part I started at the beginning and went to the end insofar as the end was a logical conclusion.  So, end as in "I showed what I intended to show".
+<p> Here are the chapters with a brief summary of each.
+<p> Chapter 1: Networking and Sockets
+<p> Few people really get into the raw networking side of PHP, for good reason.  But having a good understanding of how networking works is quite pertinent to a PHP developer.  Here we go through different types of sockets and how you can handle network communication.
+<p> Chapter 2: Binary Protocols
+<p> Most PHP developers are really good with text.  XML, HTML, JavaScript, etc.  However, there is a world of integration that is available if you know how to integrate with binary network protocols.  In this chapter we look at a few along with showing how you can easily hack a network protocol.
+<p> Chapter 3: Character Encoding
+<p> Think you know about things like UTF-8?  I thought so too until I had to really get into it.  Then I realized that I did not know it as well as I thought.  Here we go through what character encoding is and get into mind-numbing detail about how to properly interact with it.
+<p> Chapter 4: Streams
+<p> Streams are probably one of the most underutilized features in PHP, though this is for good reason.  Few people will ever really get into streams in much depth.  That doesn't mean, however, that you have an excuse for not knowing them.  After this chapter, you will.
+<p> Chapter 5: SPL
+<p> SPL is not one of the most underutilized features, it IS the most underutilized feature.  Find out why.
+<p> Chapter 6: Asynchronous Operations with Some Encryption Thrown In
+<p> PHP does not do asynchronous execution; things like threading.  That doesn't mean that your application doesn't need it, or that you can't do it.  We look at a basic example here of what asynchronous execution could look like for your application.
+<p> Chapter 7: Structured File Access
+<p> Ever wanted to read a TAR file, or a WAV file, or something similar, but didn't know how to do it?  Ever want to read a raw EXT2 partition?  (hopefully not).  We look at several examples of how to read several different binary file types and look at how to build your own?
+<p> Chapter 8: Daemons
+<p> Ever want to build PHP to run in the background?  No?  Good.  You probably shouldn't.  But there are cases where this could actually be quite pertinent.   Here we go through some basics about how to build a PHP-based daemon.
+<p> Chapter 9: Debugging, Profiling, and Good Development
+<p> Do you think you're a good developer, but don't know how to use a debugger?  Then you're not a good developer.  In this chapter we go through some of the tools available to help make you a better developer.
+<p> Chapter 10: Preparing for Success
+<p> So you've built the next big thing... and it becomes the next big thing.  Now you have a problem.  In this chapter we go through a couple of concepts that can help alleviate the problems that occur when you become popular, or keep those problems from occurring in the first place.
+<p> Not many PHP books begin with an Acknowledgments section written in the style of Medieval Literature with an English accent, but this one doth.
+<p> That is not the only original aspect to this book. In fact, you'd be hard-pressed to find a single unoriginal aspect to this PHP tome.
+<p> I warn you, these topics are not what I'd begin to learn PHP with...
+<p> Kevin is the technology evangelist for Zend...quite a famous company in the PHP world on the strength of the Zend engine and their newish Zend Framework. And he definitely stretches far beyond what most people do with the language...
+<p> If you're already a PHP developer you will learn something new. And you'll begin with a nice review of the OSI layer. Something I personally hadn't covered in many years....
+<p> I really enjoyed this book...if you're interested in using PHP for any of the following, definitely pick up a copy!:
+<p> Normally i do not write reviews. But in this case i will make an exception. Kevin did a great job in writing an interesting and challenging book full of useful and eye opening information.
+<p> It's been a while since i read a PHP related book. I have been doing PHP based development for the past 10 years. And after reading almost every book of value on this topic. It's hard to find something interesting to read about it. Most books just go over the basics. Or target a specific project / way of developing.
+<p> This book is a bit different from what i have read so far. And it will get a nice place near my other books of value. So what does make this book so different? First of all the topics that pass by are some of the more advanced topics you will come by in the PHP world. A lot of it is related to low level programming. So a bit of experience or interest in this subject is a must. Besides the advanced topics Kevin shows how to solve issues in ways i have never done them before. And that probably comes down to his experience with more low level languages like C.
+<p> He touches topics like Networking and sockets, Binary protocols, character encoding, streams, SPL, Asynchronous operations, file access, Daemons, And two great chapters about debugging, good development practises and just how to become a better developer in general. The book has a considerable amount of binary maths in it which is cool. And which is also needed when doing things like handling raw TCP/IP and TCP/UDP data, writing stream handlers or creating your own file-system.
+<p> Maybe not all of the material touched in the book is relevant to web development. And most of us will probably never have to write an HTTP daemon, network scanner or webcrawler in PHP. But the way Kevin tackles problems showed me things i never thought of before and new ways to attack old problems.
+<p> Ii just had a lot of fun reading this book. And would definitely advocate other developers to read it as well.
+<p> Before I can actually discuss the book itself I need to give a disclaimer, Kevin sent me a copy of the book as I'd won it in a giveaway on Twitter; I don't intend on showing favoritism due to that but I wanted to give a heads up.
+<p> First to begin with, I'm a professional developer in the PHP world and have been for quite some time, I've worked on rather large sites that span multiple data centers as well as SaaS applications and traditional applications crammed into the browser space. Cracking open this book, just within the first chapter, I've seen new approaches to old problems, doing things that I'd never thought about before, and doing things that I didn't quite know were possible (they still might not be logical, just a warning). Herein lies a problem, the level of detail that is covered can easily overwhelm someone, I've resorted to reading one or two chapters a weekend so I can properly process everything. Not withstanding, Kevin manages to cover several low level subjects in-depth (sockets, streams, etc) and for the most part his writing is engaging and somewhat entertaining, there were things skipped though, advanced topics that are referenced and not really covered in-depth (this is an issue as with PHP there aren't a lot of users who do bitwise operations, as an example, on a regular basis).
+<p> I would highly recommend this book to someone who's spent some time in the software development world and has some experience with C or advanced PHP topics, this is not a book for a beginner or those that don't have a good grasp on the fundamentals of computer science. Also take heed, this book covers things that you can do as an example of what's possible, just because you can do something doesn't always mean you should. i.e. Writing a HTTP Daemon in PHP vs. C/C++.
+

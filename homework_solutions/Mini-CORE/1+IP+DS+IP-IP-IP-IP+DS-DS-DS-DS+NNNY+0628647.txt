@@ -1,0 +1,22 @@
+<0628647>
+<http://www.sparxsystems.com/products/index.html>
+<Rater 1: IP_DS * OP * N * ID: A2QLSHXNCHBRN4>
+<Rater 2: IP_DS *  * N * ID: A1GY4Z89KWHWZB>
+<Rater 3: IP_DS *  * N * ID: A3OWP3M7I9AQ44>
+<Rater 4: IP_DS *  * Y * ID: A1MLC8HETIE13W>
+
+<h> UML Tools For Business, Software and Real-time Systems
+<p> Enterprise Architect is a high performance modeling, visualization and design platform based on the UML standard.
+<p> With complete traceability from mind mapping, through requirements to business and software design and deployment , Enterprise Architect provides the kind of robust and efficient visualization and collaboration required in today's large and demanding modeling environments.
+<h> Corporate Edition
+<p> The Corporate Edition of Enterprise Architect is a comprehensive modeling solution targeted at larger development teams.
+<p> Supporting a rich feature-set including model auditing, version control, role based security, mind mapping, the option for a DBMS repository, MDG Technology creation and utilization, shared models, debug and visualization for running applications, and more.
+<h> Ultimate Edition
+<p> For power users and those working across multiple domains, the Ultimate Edition offers the complete Enterprise Architect experience. With deep support for Business Modeling, Software Engineering and Systems development, seamlessly integrated into a single development environment, you and your team can always remain in touch and in control of even the most complex and exacting projects.
+<h> Business and Software Engineering Edition
+<p> For the software development professional, business modeler, architect, requirements expert, project manager or those involved in the design and construction of quality software and business services, this new edition of Enterprise Architect has the features and built in tools to help the individual or the team deliver the best solution possible.
+<h> Systems Engineering Edition
+<p> As a systems and software development professional working on real-time, embedded and systems solutions using UML, SysML, DDS and related technologies, this new edition of Enterprise Architect has features and built in tools to help you and your team deliver the best solution possible.
+<h> Visual Studio .NET Link
+<p> Navigation between Enterprise Architect and Visual Studio .NET is enhanced with simple key combinations that take the user directly from an Enterprise Architect model to its corresponding code in Visual Studio .NET.
+

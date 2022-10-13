@@ -1,0 +1,17 @@
+<0184070>
+<http://arstechnica.com/security/2012/09/godaddy-outage-caused-by-router-snafu-not-ddos-attack/>
+<Rater 1: NA_NE * RC * N * ID: A2A07J1P6YEW6Z>
+<Rater 2: NA_NE * RC * N * ID: A2XC6HDW19I1QF>
+<Rater 3: NA_NE * RC - QU * N * ID: A1CTJ8UT7SF317>
+<Rater 4: NA_NE * RC - QU * N * ID: A32PNTIGJF38XQ>
+
+<h> GoDaddy outage was caused by router snafu, not DDoS attack
+<h> Web host debunks rumors that a debilitating DDoS attack took it down.
+<p> Monday's five-hour outage that left GoDaddy unable to serve millions of websites that depend on it for Web hosting was not caused by an external attack as claimed by an anonymous hoaxster. An internal network error was at fault, company officials said Tuesday morning.
+<p> "It was not a 'hack' and it was not a denial of service attack (DDoS)," GoDaddy Interim CEO Scott Wagner wrote in an e-mail. "We have determined the service outage was due to a series of internal network events that corrupted router data tables."
+<p> Once engineers identified the problem, they were able to restore e-mail and connectivity to the company's and customers' websites, Wagner added. Customer data was never at risk of being exposed during the outage, which prevented people from accessing many or all of the websites that rely on GoDaddy.
+<p> The high-profile outage caused no shortage of frustration and disruption for the millions of individuals and businesses who rely on GoDaddy to provide e-mail and Web connectivity. Shortly after it began, an unidentified individual took to Twitter to claim the outage was the result of a distributed denial-of-service attack. The individual provided no evidence to support the claim, but it was widely reported as fact by both news and blog reports.
+<p> GoDaddy's statement marks the second time this week that unverified and anonymous hacking claims have been debunked. On Monday, a Florida-based publisher said it was the source of a leak of one million iPhone and iPad universal device IDs. The revelation that the numbers were lifted from a compromised database contradicted claims made by people who identified themselves as members of the AntiSec hacking crew. These anonymous individuals said the UDIDs were lifted from an FBI laptop they had hacked.
+<p> The incidents are a good reminder that it's a good idea to remain skeptical of unverified hacking claims.
+<p> Worth noting: the redundancy that's implied by them giving you one NS record on each of two different subnets (216.69.185.x and 208.109.255.x) is clearly no more than that - an implication. If they were truly separate networks, a router failure in one network would not have affected the other, and vast swathes of the internet would not have been made inaccessible for the majority of the day yesterday.
+

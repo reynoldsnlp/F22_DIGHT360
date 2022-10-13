@@ -1,0 +1,60 @@
+<0142755>
+<http://www.angus-reid.com/polls/2427/italians_more_likely_to_expel_illegal_immigrants/>
+<Rater 1: NA_NE *  * N * ID: A1Q5Y3OVJE5U1G>
+<Rater 2: NA_NE *  * N * ID: A23AWSZSAGLY8X>
+<Rater 3: NA_NE *  * N * ID: A2QJGPYZZ1DTIP>
+<Rater 4: NA_NE *  * N * ID: A3TXO6RKFIDFUV>
+
+<h> Get short, timely messages from AngusReidGlobal
+<h> Italians More Likely to Expel Illegal Immigrants
+<p> (Angus Reid Global Monitor) -- A majority of respondents in three European countries believe all illegal immigrants should be deported, according to a poll by Harris Interactive published in the Financial Times. 60 per cent of respondents in Italy, 59 per cent in Britain and 54 per cent in Germany are in favour of expulsion.
+<p> (Angus Reid Global Monitor) -- A majority of respondents in three European countries believe all illegal immigrants should be deported, according to a poll by Harris Interactive published in the Financial Times . 60 per cent of respondents in Italy, 59 per cent in Britain and 54 per cent in Germany are in favour of expulsion.
+<p> The United States is next on the list with 46 per cent, followed by Spain with 43 per cent, and France with 34 per cent. In France, 19 per cent of respondents would allow illegal immigrants with children attending school to stay, while expelling all others. Support for granting an amnesty to all illegal immigrants and regularize them reaches 15 per cent in both Spain and the United States.
+<p> Earlier this month, the U.S. Senate discussed a revised immigration bill, which would allow illegal immigrants to come forward and obtain a "Z visa." After paying fees, a $5,000 U.S. fine and then returning to their home countries, they could apply for permanent residency, which could be granted in eight to 13 years. The bill also includes a proposal to introduce a points system that would prioritize access to the U.S. for skilled and educated immigrants, as well as new family-reunification guidelines.
+<p> In December 2004, the Spanish government approved the regularization law. More than 690,000 foreign residents have filed their paperwork to remain in Spain legally.
+<p> In early May, the European Commission released a proposal to levy penalties against businesses in the European Union (EU) that employ illegal immigrants. EU commissioner Franco Frattini said about seven to 16 per cent of the EU's gross domestic product is conducted "off the books", adding, "The near certainty of finding illegal work in EU member states is the main driving force behind illegal immigration. The EU must act together."
+<p> Polling Data
+<p> Concerning illegal immigrants, which one of the following actions should your country take?
+<p> USA
+<p> FRA
+<p> GER
+<p> BRI
+<p> ITA
+<p> Expel all illegal immigrants
+<p> 46%
+<p> 34%
+<p> 54%
+<p> 59%
+<p> 60%
+<p> Allow illegal immigrants with children attending school to stay, but expel all others
+<p> 6%
+<p> 19%
+<p> 14%
+<p> 6%
+<p> 10%
+<p> Grant an amnesty to all illegal immigrants and regularize them
+<p> 15%
+<p> 13%
+<p> 6%
+<p> 10%
+<p> 8%
+<p> None of the above
+<p> 3%
+<p> 9%
+<p> 6%
+<p> 6%
+<p> 6%
+<p> Something else
+<p> 23%
+<p> 19%
+<p> 15%
+<p> 12%
+<p> 11%
+<p> No opinion
+<p> 7%
+<p> 7%
+<p> 6%
+<p> 7%
+<p> 5%
+<p> Source: Harris Interactive / Financial Times Methodology: Online interviews with 6,520 adults in Britain, France, Germany, Italy, Spain and the United States, conducted from May 2 to May 14, 2007. Margin of error for individual countries is 3 per cent.
+

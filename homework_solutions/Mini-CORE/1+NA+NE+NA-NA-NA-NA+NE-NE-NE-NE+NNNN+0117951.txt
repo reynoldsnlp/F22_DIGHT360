@@ -1,0 +1,17 @@
+<0117951>
+<http://security.cbronline.com/news/global-mobile-security-market-is-expected-to-reach-107bn-in-2017-report-161012>
+<Rater 1: NA_NE * QU * N * ID: AQR70X1KIOP6B>
+<Rater 2: NA_NE *  * N * ID: A231ZXYHPSNUJQ>
+<Rater 3: NA_NE *  * N * ID: A23AWSZSAGLY8X>
+<Rater 4: NA_NE *  * N * ID: A2ZU1P6UYE1UBU>
+
+<p> We have updated our privacy policy . In the latest update it explains what cookies are and how we use them on our site. To learn more about cookies and their benefits, please view our privacy policy . Please be aware that parts of this site will not function correctly if you disable cookies. By continuing to use this site, you consent to our use of cookies in accordance with our privacy policy unless you have disabled them.
+<p> The global mobile security market is expected to witness faster pace of growth over the next five years, led by growth in enterprise-led security services, reaching $10.7bn in 2017, according to a report by ABI Research.
+<p> Though application and hardware security are the foundation of mobile security, the market will be mainly driven by mobile-centric security services, the report revealed.
+<p> With mobile platform maturing over the years, the mobile security services will cater to the demand for managed services, cloud-based security, endpoint management, security readiness assessments, penetration testing, and other professional services.
+<p> Mobile security services will mainly target the enterprise sector, with the BYOD trend fast catching up and the enterprises continue to assimilate mobile devices into their organisations.
+<p> ABI Research senior analyst Michela Menting said securely managing a growing number of devices within the enterprise is becoming a real issue as more and more workers use smartphones and tablets to perform core company tasks.
+<p> "The different phone brands, operating systems and versions place a growing burden on IT staff, often requiring separate security solutions to be tailored to each device type," Menting said.
+<p> According to the report, some enterprises will hike their spending in-house to address this issue; many companies will opt for mobile security services from specialised third party service providers.
+<p> In terms of region, the European market is expected to witness stronger demand for comprehensive services, including remote security management and technical support.
+

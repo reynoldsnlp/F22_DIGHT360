@@ -1,0 +1,14 @@
+<0212817>
+<http://www.theregister.co.uk/2012/04/12/cloud_foundry_linux/>
+<Rater 1: NA_NE * RC * N * ID: A2QLSHXNCHBRN4>
+<Rater 2: NA_NE * RC * N * ID: A3LNPBZXHKKAA7>
+<Rater 3: NA_NE * RC * N * ID: AAE2Y3VOJRZVQ>
+<Rater 4: NA_NE * RC - QU * N * ID: A2IVUW3VOHJL8J>
+
+<p> Steve Herrod, CTO of VMware, has high ambitions for the company's app development platform Cloud Foundry, saying he wants it to be the Linux of the cloud.
+<p> Speaking at the one year anniversary of the Cloud Foundry rollout, Herrod said that the company was betting on open source and open cloud management as the future of the sector, and introduced a new range of features designed to make the platform much more scalable and easier to use on a variety of platforms.
+<p> "We really are aspiring for this to be the Linux of the cloud," he said. While VMware is continuing to add to the Cloud Foundry code base, he reported that the majority of code for the platform was contributed by third parties.
+<p> VMware was adding a major part of the code base with BOSH components that enabled large scale deployment of the system over multiple cloud vendors. The new code would take Cloud Foundry into the large scale deployment field he promised, without tying the code to a particular vendor.
+<p> "This is not a collection of shell scripts or pile of Perl," said Mark Lucovsky, VP of engineering at VMware. "It's built for large scale clusters using hundreds of VMs and useful for small multi-node and tier clusters."
+<p> VMware was also speeding up the process for testing and deploying code on Cloud Foundry Lucovsky explained. The testing procedures had been streamlined to allow for better code checking and faster deployment. While VMware was still contributing code, it had been outpaced by third parties developing their own forks, he said. r
+

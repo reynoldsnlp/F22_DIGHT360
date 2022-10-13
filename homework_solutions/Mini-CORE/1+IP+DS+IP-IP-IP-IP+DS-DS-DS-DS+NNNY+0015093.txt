@@ -1,0 +1,16 @@
+<0015093>
+<http://www.amazon.co.uk/Natural-Language-Processing-Tools-Speech/dp/3838334906>
+<Rater 1: IP_DS * RC * N * ID: A3UOK7WMVFVHHE>
+<Rater 2: IP_DS * RC * N * ID: ADCUZP06L4J49>
+<Rater 3: IP_DS *  * N * ID: A2LFVJ28A2J2PK>
+<Rater 4: IP_DS *  * Y * ID: A3QB0Z9AN62HFH>
+
+<p> Important: Your credit card will NOT be charged when you start your free trial or if you cancel during the trial period. If you're happy with Amazon Prime, do nothing. At the end of the free trial, your membership will automatically upgrade to a full year for 49.
+<h> Book Description
+<p> Publication Date: 9 April 2010
+<p> In the modern communication age, the use of technology is pervasive in almost all aspects of life. The use of computers, mobile phones, the Internet, and electronic games is increasing all the time, and all of these technologies employ natural language interfaces. Applications such as spellchecking, grammar checking, predictive texting, automatic call answering, speech synthesis, etc., each have language specific elements which are based on fundamental building blocks. This book presents a detailed picture of the development of such fundamental language resources. It describes the development of a tokenizer, a morphological analyser, a part-of-speech tagger, a partial dependency tagger, and a chunker for Irish. It introduces corpus creation, finite-state morphology, rule-based POS tagging and dependency parsing, together with standard methods of evaluation, and full code listings. This makes it an invaluable guide to those interested in Natural Language Processing, especially those developing NLP tools for a language with few pre-existing language resources.
+<p> In the modern communication age, the use of technology is pervasive in almost all aspects of life. The use of computers, mobile phones, the Internet, and electronic games is increasing all the time, and all of these technologies employ natural language interfaces. Applications such as spellchecking, grammar checking, predictive texting, automatic call answering, speech synthesis, etc., each have language specific elements which are based on fundamental building blocks. This book presents a detailed picture of the development of such fundamental language resources. It describes the development of a tokenizer, a morphological analyser, a part-of-speech tagger, a partial dependency tagger, and a chunker for Irish. It introduces corpus creation, finite-state morphology, rule-based POS tagging and dependency parsing, together with standard methods of evaluation, and full code listings. This makes it an invaluable guide to those interested in Natural Language Processing, especially those developing NLP tools for a language with few pre-existing language resources.
+<h> Special Offers and Product Promotions
+<p> Buy any product sold by Amazon.co.uk excluding any Kindle Device and e-books and we will add a 10 promotional gift certificate to your account to spend on selected Amazon fashion. Here's how (terms and conditions apply)
+<h> Customers Viewing This Page May Be Interested in These Sponsored Links
+

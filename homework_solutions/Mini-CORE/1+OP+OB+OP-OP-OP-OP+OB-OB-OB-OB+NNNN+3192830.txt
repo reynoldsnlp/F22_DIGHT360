@@ -1,0 +1,15 @@
+<3192830>
+<http://musclegeek.wordpress.com/2012/10/09/epidemiological-studies-can-not-be-trusted/>
+<Rater 1: OP_OB * RC * N * ID: A1P7QDWY4U2H6O>
+<Rater 2: OP_OB * RC * N * ID: A37P04C2DUCI92>
+<Rater 3: OP_OB * RC * N * ID: A3MZ9RQJX9T656>
+<Rater 4: OP_OB *  * N * ID: A3BYE6AJS15HLT>
+
+<h> Post navigation
+<h> Epidemiological Studies Can Not Be Trusted.
+<p> They, in all cases, cannot be used at all to 'suggest', 'provide evidence', or anything that might be interpreted as causing any effect, period.
+<p> To use epidemiology thusly is a travesty of rational thought. Basically they have very limited scientific utility. All that they can do is to say, "these effects were found in this group under these circumstances, with the caveats: 1) there are many unaccounted-for and in fact unknown confounders; 2) the data is suspect due to the way it was gathered; 3) any causal suggestions are totally conjectural; 4) science journalists should understand that research conclusions herein using words such as 'linked to', 'associated with', 'shows', 'may be', all are used in a scientific sense that is quite different from the usage by the man on the street, who thinks, not unreasonably, that these terms imply causality; and that 5) since this is an epidemiological study, it is by definition almost worthless, and should only be used to encourage debate and actual experimentation ."
+<p> The problem is many scientists have made a living at data-mining the old, long-term studies for new papers for so long, the methodology is very entrenched. And unfortunately, it does not lead to good experiments as often as it should, so the original 'conclusions', no matter how unjustified, hang in the scientific & public consciousness for a long time.
+<p> So next time you see some news artcle, headline, nightly-news-scare, or whatever, claiming that "red meat will kill you", or some crazy nonesense, ask yourself "where's the information coming from?"
+<p> Correlation is not causation. This is 6th grade stuff. Get with it people.
+

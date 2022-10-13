@@ -1,0 +1,18 @@
+<0242960>
+<http://blog.sweetiq.com/2012/08/on-our-radar-this-week-bye-bye-zagat-yahoo-makes-it-easy-and-foursquare-listens-to-the-people/>
+<Rater 1: NA_NE *  * N * ID: A109TOWKB3DY3P>
+<Rater 2: NA_NE *  * N * ID: A15LFIRQ542D1T>
+<Rater 3: NA_NE *  * N * ID: A22LJFUCFXZKZS>
+<Rater 4: NA_NE *  * N * ID: A3209D1227UCYP>
+
+<p> This week on our radar we've scooped up some interesting information. Local networks are forced to listen to their customers and Yahoo! has eased their local listing process (while Google is still patching things up).
+<p> Now it seems Google may be realizing what we (and many others) were talking about. Mike Blumenthal has posted screen shots sent to him by Matt Gregory showing that searches are bringing up local listings that are displaying starred reviews instead of Zagat reviews.
+<p> This test has been observed since Monday evening and seems to be prying into the merit of the Zagat system. Marissa Mayer, known to be a big proponent of the Zagat system was in charge of Google local when Zagat was purchased. It may be that her recent departure from the company has fizzled out whatever support Zagat had.
+<p> Testing and time will tell if we see a resurgence of the star rating system back into the Google local scene.
+<p> Prior to the addition of owner verification, the task was left to moderators that had to do the step for you. Because of the volume of listings and logistics of verifying them all, this process could take weeks. Now, since some weight has been lifted off the moderators, it'll take less time to get listed which adds some efficiency to your local search efforts on Yahoo!
+<p> Yahoo! sets precedence in this regard as neither Google nor Bing provides this feature to their local users.
+<h> Foursquare Revives Popular Mobile Option
+<p> It's amazing what can happen when a few people speak up. Sometimes, no matter how experienced and progressive a company is, you just have to listen to the people.
+<p> Back in June Foursquare rolled out a new design for their mobile layout. This sleek look put a premium on social interactions -- a seemingly good thing. But while that was all well and good, complaints began to stir surrounding Foursquare's drop of being able to view just the check-ins of nearby friends.
+<p> Foursquare has revived and added this feature back into their mobile app. It seems that despite their attempts at cultivating a more social environment, users still wanted what was most important to them from Foursquare -- relevant local information.
+

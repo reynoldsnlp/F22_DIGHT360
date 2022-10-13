@@ -1,0 +1,55 @@
+<9992914>
+<http://en.wikipedia.org/wiki/Graham's_number>
+<Rater 1: IN_EN * Wiki>
+<Rater 2: IN_EN * Wiki>
+<Rater 3: IN_EN * Wiki>
+<Rater 4: IN_EN * Wiki>
+<p> The number gained a degree of popular attention when Martin Gardner described it in the "Mathematical Games" section of Scientific American in November 1977, writing that Graham had recently established, in an unpublished proof, "a bound so vast that it holds the record for the largest number ever used in a serious mathematical proof." The 1980 Guinness Book of World Records repeated Gardner's claim, adding to the popular interest in this number. According to physicist John Baez , Graham invented the quantity now known as Graham's number in conversation with Gardner himself. While Graham was trying to explain a result in Ramsey theory which he had derived with his collaborator B. L. Rothschild, Graham found that the quantity now known as Graham's number was easier to explain than the actual number appearing in the proof. Because the number which Graham described to Gardner is larger than the number in the paper itself, both are valid upper bounds for the solution to the Ramsey-theory problem studied by Graham and Rothschild. [ 1 ]
+<h> Contents
+<p> Example of a 2-colored 3-dimensional cube containing one single-coloured 4-vertex coplanar complete subgraph. The subgraph is shown below the cube. Note that this cube would contain no such subgraph if, for example, the bottom edge in the present subgraph were replaced by a blue edge - thus proving by counterexample that N * &gt; 3.
+<p> Graham's number is connected to the following problem in Ramsey theory :
+<p> Connect each pair of geometric vertices of an n -dimensional hypercube to obtain a complete graph on 2 n vertices . Colour each of the edges of this graph either red or blue. What is the smallest value of n for which every such colouring contains at least one single-coloured complete subgraph on four coplanar vertices?
+<p> In 1971, Graham and Rothschild proved that this problem has a solution N* , giving as a bound 6 ? N* ? N , with N being a large but explicitly defined number , where in Knuth's up-arrow notation ; the number is between 4 ? 2 ? 8 ? 2 and 2 ? 3 ? 9 ? 2 in Conway chained arrow notation . [ 2 ] This was reduced in 2013 via upper bounds on the Hales-Jewett number to . [ 3 ] The lower bound of 6 was later improved to 11 by Geoff Exoo in 2003, and to 13 by Jerome Barkley in 2008. Thus, the best known bounds for N* are 13 ? N* ? N' .
+<p> Graham's number, G , is much larger than N : , where . This weaker upper bound for the problem, attributed to an unpublished work of Graham, was eventually published and named by Martin Gardner in Scientific American in November 1977. [ 4 ]
+<p> where the number of arrows in each layer, starting at the top layer, is specified by the value of the next layer below it; that is,
+<p> and where a superscript on an up-arrow indicates how many arrows there are. In other words, G is calculated in 64 steps: the first step is to calculate g 1 with four up-arrows between 3s; the second step is to calculate g 2 with g 1 up-arrows between 3s; the third step is to calculate g 3 with g 2 up-arrows between 3s; and so on, until finally calculating G = g 64 with g 63 up-arrows between 3s.
+<p> Equivalently,
+<p> and the superscript on f indicates an iteration of the function , e.g., f 4 ( n )= f ( f ( f ( f ( n )))) . Expressed in terms of the family of hyperoperations , the function f is the particular sequence , which is a version of the rapidly growing Ackermann function A ( n , n ). (In fact, for all n .) The function f can also be expressed in Conway chained arrow notation as , and this notation also provides the following bounds on G :
+<p> To convey the difficulty of appreciating the enormous size of Graham's number, it may be helpful to express-in terms of exponentiation alone-just the first term ( g 1 ) of the rapidly growing 64-term sequence. First, in terms of tetration ( ) alone:
+<p> where the number of 3s in the expression on the right is
+<p> Now each tetration ( ) operation reduces to a "tower" of exponentiations ( ) according to the definition
+<p> Thus,
+<p> becomes, solely in terms of repeated "exponentiation towers",
+<p> and where the number of 3s in each tower, starting from the leftmost tower, is specified by the value of the next tower to the right.
+<p> In other words, g 1 is computed by first calculating the number of towers, n = 3?3?3?...?3 (where the number of 3s is 3?3?3 = 7625597484987), and then computing the n th tower in the following sequence:
+<p> where the number of 3s in each successive tower is given by the tower just before it. Note that the result of calculating the third tower is the value of n , the number of towers for g 1 .
+<p> The magnitude of this first term, g 1 , is so large that it is practically incomprehensible, even though the above display is relatively easy to comprehend. Even n , the mere number of towers in this formula for g 1 , is far greater than the number of Planck volumes (roughly 10 185 of them) into which one can imagine subdividing the observable universe . And after this first term, still another 63 terms remain in the rapidly growing g sequence before Graham's number G = g 64 is reached.
+<p> Graham's number is a "power tower" of the form 3?? n (with a very large value of n ), so its rightmost decimal digits must satisfy certain properties common to all such towers. One of these properties is that all such towers of height greater than d (say), have the same sequence of d rightmost decimal digits . This is a special case of a more general property: The d rightmost decimal digits of all such towers of height greater than d +2, are independent of the topmost "3" in the tower; i.e., the topmost "3" can be changed to any other nonnegative integer without affecting the d rightmost digits.
+<p> The following table illustrates, for a few values of d , how this happens. For a given height of tower and number of digits d , the full range of d -digit numbers (10 d of them) does not occur; instead, a certain smaller subset of values repeats itself in a cycle. The length of the cycle and some of the values (in parentheses) are shown in each cell of this table:
+<p> Number of different possible values of 3?3?...3? x when all but the rightmost d decimal digits are ignored
+<p> Number of digits ( d )
+<p> 3? x
+<p> 3?3? x
+<p> 3?3?3? x
+<p> 3?3?3?3? x
+<p> 3?3?3?3?3? x
+<p> 1
+<p> 4 (1,3,9, 7 )
+<p> 2 (3, 7 )
+<p> 1 ( 7 )
+<p> 1 ( 7 )
+<p> 1 ( 7 )
+<p> 2
+<p> 20 (01,03,..., 87 ,...,67)
+<p> 4 (03,27,83, 87 )
+<p> 2 (27, 87 )
+<p> 1 ( 87 )
+<p> 1 ( 87 )
+<p> 3
+<p> 100 (001,003,..., 387 ,...,667)
+<p> 20 (003,027,... 387 ,...,587)
+<p> 4 (027,987,227, 387 )
+<p> 2 (987, 387 )
+<p> 1 ( 387 )
+<p> The particular rightmost d digits that are ultimately shared by all sufficiently tall towers of 3s are in bold text, and can be seen developing as the tower height increases. For any fixed number of digits d (row in the table), the number of values possible for 3 3?...3? x mod 10 d , as x ranges over all nonnegative integers, is seen to decrease steadily as the height increases, until eventually reducing the "possibility set" to a single number (colored cells) when the height exceeds d +2.
+<p> A simple algorithm [ 5 ] for computing these digits may be described as follows: let x = 3, then iterate, d times, the assignment x = 3 x mod 10 d . Except for omitting any leading 0s, the final value assigned to x (as a base-ten numeral) is then composed of the d rightmost decimal digits of 3?? n , for all n &gt; d . (If the final value of x has fewer than d digits, then the required number of leading 0s must be added.)

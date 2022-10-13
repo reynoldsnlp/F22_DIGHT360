@@ -1,0 +1,19 @@
+<0228277>
+<http://www.theage.com.au/articles/2003/10/30/1067233282975.html?from=storyrhs>
+<Rater 1: NA_NE *  * N * ID: A28OR0DDYOT4XB>
+<Rater 2: NA_NE *  * N * ID: A28XFC7F3F89W8>
+<Rater 3: NA_NE *  * N * ID: A33SMNMTMIOJ6T>
+<Rater 4: NA_NE *  * N * ID: A3RTROKHB6J9B9>
+
+<h> Robots get eyes in the back of their heads
+<p> US researchers were developing robots with "eyes in the backs of their heads" in the form of nine digital cameras attached to a frame the size of a beach ball.
+<p> Providing a robot with "omni-directional" vision could vastly improve its navigational skills, the scientists told Reuters after a report on their work was published in the New Scientist magazine.
+<p> The new "eye", named the Argus Eye after the all-seeing Greek god, passes the images to a computer which works out the direction in which the robot is pointing and heading.
+<p> While humans can rely on sensors in their ears to navigate themselves, many robots have to rely solely on their single eye.
+<p> But as computer scientists at the University of Maryland proved mathematically in 1998, if robots could see in all directions they would not need any other sensors.
+<p> Researcher Cornelia Fermueller said further development and mass production of the Argus eye could bring down the cost of both industrial and domestic robots.
+<p> The ability to navigate was the lowest level of capability needed by a robot to work in an unknown environment, she said.
+<p> A study released this month by the United Nations Economic Commission for Europe (UNECE) found that worldwide sales of robots designed for domestic chores and for home entertainment tripled in 2002, and were expected to beat sales of industrial robots for the first time in 2003.
+<p> The survey also found that entertainment robots outsold three times over those designed to carry out domestic chores like cleaning and mowing the lawn.
+<p> Luc Steels, a roboticist at the Sony Computer Science Laboratory told this week's New Scientist magazine the purpose of entertainment robots was less defined, so they were less likely to fail or disappoint.
+

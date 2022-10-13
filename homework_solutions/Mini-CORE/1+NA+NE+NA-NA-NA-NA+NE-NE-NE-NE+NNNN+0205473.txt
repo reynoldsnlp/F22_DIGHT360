@@ -1,0 +1,37 @@
+<0205473>
+<http://www.kotaku.com.au/2012/11/eas-ceo-john-riccitiello-calls-for-a-global-classification-system/>
+<Rater 1: NA_NE * RC * N * ID: A37SNFHBHBPZQE>
+<Rater 2: NA_NE * RC * N * ID: A3ILCQ2TTFTHA1>
+<Rater 3: NA_NE * RC - QU * N * ID: A3HKUTT4DCCMSS>
+<Rater 4: NA_NE * RC - QU * N * ID: A8BLFGJE6RDQK>
+
+<h> EA's CEO John Riccitiello Calls For A Global Classification System
+<p> It's a discussion that cuts to the core of what the Australian Law Reform Commission is having to deal with right now: how do we classify content in a world where the definition of content, and platforms, is becoming increasingly blurry. EA's CEO John Riccitiello has claimed that we need something broader and more universal, in order to better inform consumers of the kind of content they can expect when purchasing video games. John Riccitiello wants a global system, across countries, across platforms.
+<p> "With great freedom, comes great responsibility," he said, as reported by Polygon . "To live up to that responsibility, we need to do a better job informing the consumer, no matter the channel, the platform or the geography. We must adopt a self-regulated, global rating system across every format games are played on."
+<p> According to Riccitiello -- multiple different classification systems, across different gaming platforms, have the potential to confuse consumers, making informed choices exponentially more difficult.
+<p> "Consumers are finding many new places to get their games," he continued, "Facebook, Google, Apple, as well as services like Steam and Origin. Most have a rating system, but none are consistent. Consequently, we are confusing the consumer.
+<p> "We must move beyond the alphabet soup of game ratings and consolidate behind a single standard that consumers will recognize and, ultimately, demand."
+<p> Locally, in Australia, the ALRC has provided multiple different recommendations for an overhaul of the current classification scheme. Among those recommendations was a more platform neutral system -- not just for video games, but across all media content. It's in the realm of common sense -- modern content defies traditional definitions of media, and the methods of delivery are broader than ever.
+<p> Some have suggested that Australia simply allow a regulatory body, much like the ESRB in Canada and the US, to classify content. Maybe we would benefit from allowing some sort of global body to classify our content?
+<h> Share
+<h> Tags
+<h> Discuss
+<p> Yeah good luck with that. It took Australia over 10 years to amend ONE part of the classification system, imagine how long it would take the government to approve and adopt a global classification structure
+<p> It took us this long just to get a damn R18+ category here. One step at a time.
+<p> While an global solution would probably be the most ideal, the fact is different countries have different laws and different ideas of what is deemed appropriate for kids and adults. Many European countries for example have no problems with nudity, but are very very strict when it comes to violence.
+<p> When he says global, he is referring to global across platforms, not countries. i.e. that media on Facebook, Android, Youtube, Steam and Retail should all be subject to the same classification system within the same jurisdiction .
+<p> The argument goes back to the loop hole a couple of years back in Australia when it was realized that WoW and other online content was exempt from classification due to it being online media, even though it was sold at retail.
+<p> EA is saying that its should not matter what platform your product is published on, they should all be subject to the same rating system.
+<p> The problem is that in country such as the US that is self regulated, cross platform ratings can be achieved as the developer/publisher, decides what rating is appropriate for their product. But in a country such as ours where the system is regulated, the burden on government to review every piece of media that is intending to be published would not be practical.
+<p> In short, good if you have a deregulated system such as the US, bad if you have a regulated system like most countries.
+<p> Really, all that the system he is talking about will lead to is more media content being region locked (like we don't already have enough of that now?).
+<p> Sorry, he does make reference to geography, but also refers to a self regulated system, which are essentially mutually exclusive.
+<p> Different societies have different standards and most countries will not allow a company in another country to decide was is acceptable content in theirs. I dare say even if it was the local distribute that decided what the rating should be, a government would not allow a company to decide a rating classification for the wider community.
+<p> To be fair, self regulation does exist here in the organisation FACT for free to air broadcasting, but they are governed by a very strict guideline of what is acceptable for screening at different times.
+<p> I think there is a crucial balance to be struck here between simple and accurate classification of content, and the rights of sovereign nations to govern themselves as they see fit.
+<p> A good idea might be to have an international body, funded by the content industry, that uses a simple scoring system across a range of criteria. Individual countries can then base their ratings on those scores according to their own social values. So for example European countries might require a mature rating for games that have 7 or higher in the nudity score, whereas more conservative Middle-Eastern nations might set the threshold to 4.
+<p> Publishers will be happy because they only need to have their product reviewed and classified once, but countries retain the right to hold their own values and filter content accordingly.
+<p> Agreed, divorcing the Content Rating from the Suggested Audience means that various regions can identify "appropriateness" for age and community standards for their existing classification systems, but the content producers only need to go through one process. Print both on the packaging and eventually maybe the whole world moves to choosing a product based on its content rather than a broad age grouping.
+<p> I like the core concept, and I think it's almost unavoidable with digital distribution, content patches and online interactions, but I don't think you could do a traditional system on a global scale. Swearing, violence, etc are judged very locally.
+<p> I think what would work best is to just rank and break down the games content then leave the actual classification/age restrictions up to the local systems. So you'd classify Left 4 Dead as having strong violence, gore, mild swearing (I think they swear?), and then the locals take that information and decide how to classify the game. In some countries that'd be a 13+ in others an 18+. This way you'd get the advantage of a single classification process while still being able to use local culture and values to judge how the game is sold.
+

@@ -1,0 +1,70 @@
+<0233665>
+<http://theconversation.edu.au/terry-moran-time-for-an-inquiry-into-the-public-service-10277>
+<Rater 1: SP_IT * RC * N * ID: A175AT91CE9J73>
+<Rater 2: SP_IT * RC * N * ID: A8BLFGJE6RDQK>
+<Rater 3: SP_IT *  * N * ID: A37SNFHBHBPZQE>
+<Rater 4: SP_IT *  * N * ID: A3UOK7WMVFVHHE>
+
+<h> Terry Moran: time for an inquiry into the public service
+<p> Terry Moran was Secretary of the Department of the Prime Minister and Cabinet from 2008 to 2011. He is now President of the Institute of Public Administration Australia and a governor of the Committee for Economic Development of Australia. He joined John Alford, Professor of Public Sector Management...
+<h> Author
+<h> Disclosure Statement
+<p> John Alford was a member of the Ministry of Transport Project Team in Victoria, and a member of the panel appointed by the Victorian Premier to conduct the Review of Public Service Personnel Management in 1990.
+<p> The Conversation provides independent analysis and commentary from academics and researchers.
+<h> Articles by This Author
+<p> Terry Moran has called for the strengthening of the Australian Public Service. Alan Porritt / AAP
+<p> Terry Moran was Secretary of the Department of the Prime Minister and Cabinet from 2008 to 2011. He is now President of the Institute of Public Administration Australia and a governor of the Committee for Economic Development of Australia.
+<p> He joined John Alford, Professor of Public Sector Management at the Australia and New Zealand School of Government and at the Melbourne Business School, in conversation on the future of Australia's public service.
+<p> They discussed how the public service has changed, how it should operate, and the vexed question of the role of ministerial advisers.
+<p> John Alford : I invite you to think about when you first joined the public service. Do you think the public service will change as much in the future as it has since you joined it? Could you talk about a couple of the major changes?
+<p> Terry Moran : I think that devolving more authority to deliver services to the lowest possible level is already underway. It's gone furthest in Victoria but it has to go a long way in other states. Devolving responsibility into new governance structures is a critical change. That will in turn shake up what government departments think their business is, particularly in social policy, environmental policy and aspects of industry policy.
+<p> It will have a huge impact on how the commonwealth thinks its job should be described and how state governments think their jobs should be described. All of these things can be sorted out in a technical sense. The variable is the political impetus.
+<p> John Alford : What is your prognosis as to the likelihood of some of those things coming to fruition?
+<p> Terry Moran : I think we are facing years of fiscal constraint in Australia, not as significant as in Europe and the US, but nonetheless significant.
+<p> I can't see the long term average proportion of GDP devoted to government activities going up; it's actually down below that long term average at the moment because of the contraction in revenue effecting the commonwealth and state governments. Of course, it will return eventually to the long term average.
+<p> The commonwealth and the states and territories are going to have to look harder at what their core business is. At the national level we are seeing an argument emerge on both sides of politics along the lines of, "we want more activities shipped out to the states". The current federal government has done that in a number of ways. Take the 2011 reforms to public hospitals. These go past the state and territory governments to self-governing public hospitals, to which governments will pay fixed proportions of the efficient price for delivery of service. This can become a template for other areas of social policy in the future.
+<p> John Alford : One thing that has come up recently is the role of ministerial advisers. Do you think they make it necessarily harder or easier for public servants to have a productive relationship with elected politicians?
+<p> Terry Moran : I think there is a big problem. Ministerial advisers have become the black hole of accountability within our parliamentary democracy.
+<p> The reason for that is that the old conventions governing their roles no longer hold true. In the past, if a public servant told a ministerial adviser something it would be deemed that they had told the minister, and the adviser would make sure the minister knew. In turn an adviser would speak with authority if they actually knew the minister's wishes or had good reason to know what they would be.
+<p> There is insufficient accountability because there are so many ministerial advisers now with few, in some jurisdictions, who actually possess a grasp of the business of government commensurate with their responsibilities. No one can suggest that they are an expression of the "persona" of the minister any more. Now the minister isn't accountable for what they do, because now a minister can say, "Oh that was one of my advisers, I did not know about this".
+<p> Well, if ministers are using that to escape accountability, they can't escape the proposition that it's time the advisers were made more accountable for defined roles, and became answerable in the same way as public servants to all the investigatory and accountability bodies, including parliamentary committees.
+<p> John Alford : Do you think it would make a difference if there were to be a cap placed on the number of ministerial advisers?
+<p> Terry Moran : It would help, because it would be another means of forcing a hard look at what jobs they do. So when the Coombs Royal Commission reported in 1976, there was a definition of the role of ministerial advisers that seemed reasonable to everybody at the time. That's fallen away. Now, in some jurisdictions, you have tribes of younger, inexperienced people who crowd out mature policy debates while they pursue hyper active issues management. This is corrosive of good government.
+<p> John Alford: If you were king for a day, what changes would you make to the public service?
+<p> Terry Moran: Well first, I think accountability has to be improved. So I would make the heads of agencies and departmental heads more directly accountable in their own right to parliamentary committees for delivery, particularly through the examination of their annual reports. These reports should actually provide more useful information about departments and KPIs to use in assessing performance.
+<p> I'd move to better define the role of ministers for the purposes of ministerial responsibility. At the moment, the media is prepared to hold ministers in many portfolios responsible for anything that crops up. In practical terms this cannot work. It creates confusion, public dissatisfaction, the removal of any real sanctions for poor performance and exhaustion for ministers over time as they cope with immense and impossible pressures.
+<p> Finally, at the state level, service delivery has got to be well and truly devolved to new style governance arrangements of the sort you see in Victoria and elsewhere for hospitals, schools, vocational education and training under modern purchaser-provider arrangements. This supports more competition between providers where possible and thus more innovation. Competition between public sector providers and entities in the private sector can deliver good results for citizens and enables public sector people to demonstrate the quality and efficiency of which they are capable. But in order for that to happen, as we see with the Gonski recommendations for schools , you have to actually put money into the system to enable public sector providers and others wishing it to address disadvantage effectively.
+<p> John Alford : Of course we know the public sector is beset with a whole pile of investigative and indeed inquisitorial agencies that can be construed as making life difficult for public servants and their work. What can be done about this?
+<p> Terry Moran : One of the consequences of what happens in nearly all jurisdictions is that the public comes to feel that public services are riven with inadequacy and incompetence. This is just not true.
+<p> If you look back over the past 40 years, the transformation of Australia in an economic and social sense would have been impossible without the drive and implementation capacity of the public services of Australia. That change has transformed Australia so that we are far more prosperous, and, in other respects have all done better than would have otherwise been the case.
+<p> If Australia is much better because of what has been done by governments and the public services over the past 40 years, we have to ask why it is that the public has now reached a point where it is almost conditioned to believe that poor performance is endemic.
+<p> I think it's good that there are such investigative and inquisitorial bodies, which are there ultimately to lighten the load of parliament itself, but I think it's probably time for a Commission of Inquiry to look into how these bodies could relate more effectively to the Australian Parliaments.
+<p> The full transcript of Terry and John's conversation is available here .
+<h> Want to follow The Conversation?
+<p> Sign up to our free newsletter to get the day's top stories in your inbox each morning, with a special wrap on Saturday.
+<p> Email address
+<p> ?
+<h> Republish
+<p> You are free to republish this article both online and in print, as long as you follow some simple guidelines , which are summarised here:
+<p> Unless you have express permission from the author, you can't edit our material, except to reflect relative changes in time, location and editorial style. To make material edits contact us
+<p> You have to credit our authors and partner institutions? -- ?ideally in the byline.
+<p> You have to credit The Conversation? -- ?ideally at the top of the article and include our logo? -- ?with a link back to either our home page, The Conversation , or (preferably) the specific article URL on The Conversation website.
+<p> If space is tight, you can run the first few lines of the article and then say: "Read the full article at The Conversation" with a link back to the article page on our site.
+<p> If you're republishing online, you must use our page view counter, link to us, and include links from our story.
+<h> Join the conversation
+<h> 6 Comments sorted by
+<p> Whatever Moran's intention there seems to be a culture of denial of the serious degradation of our public service from years of efficiency dividend, the political environment of 'cut down' rather than bipartisanship, the need for slavery to the notion that public servants can only work on issues agreed by the Minister or some other authoritative body like COAG, the internal red tape created by central agencies to enforce cost benefit analysis imposed on the statutory authorities and not agencies making decisions about hundreds of millions of dollars of public money, and by the developed abusive and bullying culture throughout the public service. The resulting stress on hard working non political, totally dedicated individuals is enormous. Also not well acknowledged is the current 'Canberra paralysis' which is the direct result of the two parties not being able to deal civilly and constructively with the hung parliament.
+<h> Sylvie Leber
+<p> As a former Victorian state public servant i am pleased that this debate is happening..
+<p> The issues in the PS that I found of concern were:
+<p> -Bullying culture and fear -Politicisation of PS role (please the minister not the public) -Lack of creativity and risk taking -Poorly skilled managers -Lack of recognition of good work -Intolerance to dissenting voices -Overly hierarchical structure
+<p> Exactly Silvie. Also there is the total risk averseness of heads of agencies, the inability to work across the silos, the 'pecking order' of central and mining agencies reflected in the behavior of officers against each other, the trifling of dissent of any form and the chronic underfunding of compliance and enforcement agencies e.g. CUSTOMS, CASA, AMSA, FSANZ etc etc.
+<p> 12 days ago
+<h> Elizabeth O'Keeffe
+<p> Consultant (logged in via email @gmail.com)
+<p> Thanks to John and Terry for a fascinating interview, full of interesting insights and ideas. I do think however that the heading on the article is misleading. Terry isn't calling for an inquiry into the public service, as I read his final comments. He's asking for something much more interesting and pertinent - an inquiry into the relationship between the Parliament and the plethora of inquisitorial and investigative public bodies, such as the Auditor-general, the Ombudsman and The Astralian Commissioner for Law Enforcement Integrity. This ties in quite neatly with the current debate about the need for a specific integrity arm of government.
+<p> 14 days ago
+<h> wilma western
+<p> (logged in via email @bigpond.com)
+<p> For some fascinating insight into the Canberra public service especially how it communicates read "Speechless" by James Button. The title has many meanings as the story of father-son relationships unfolds ,including the non-use of speeches written by james for K Rudd P.M. ; also the avoidance of explanations for the replacement of Rudd as PM .
+

@@ -1,0 +1,10 @@
+<9991481>
+<http://en.wikipedia.org/wiki/Close_to_Metal>
+<Rater 1: IN_EN * Wiki>
+<Rater 2: IN_EN * Wiki>
+<Rater 3: IN_EN * Wiki>
+<Rater 4: IN_EN * Wiki>
+<h> Contents
+<p> CTM gave developers direct access to the native instruction set and memory of the massively parallel computational elements in modern AMD video cards. CTM replaced the graphics-centric DirectX and OpenGL APIs for the GPGPU programmer while exposing previously unavailable low-level functionality. R580 (ATI x1900) and later generations of AMD's GPU microarchitecture supported the CTM interface.
+<p> CTM's commercial successor, AMD Stream SDK, was released under AMD EULA in December 2007 after the software stack was rewritten. [ 1 ] Stream SDK provides high-level in addition to low-level tools for general-purpose access to AMD graphics hardware.
+<p> Using GPUs to perform computations holds a lot of potential for some applications because of the fundamental differences of GPU microarchitectures compared to CPUs. GPUs achieve much greater throughput (calculations per second) by executing many programs in parallel and restricting flow control (the ability of one program to execute instructions independently of another). Modern GPUs also have addressable on-die memory and extremely high performance multi-channel external memory.

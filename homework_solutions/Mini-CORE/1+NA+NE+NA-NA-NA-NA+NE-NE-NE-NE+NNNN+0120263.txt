@@ -1,0 +1,67 @@
+<0120263>
+<http://thetyee.ca/Blogs/TheHook/Rights-Justice/2012/11/15/PoliceScan/>
+<Rater 1: NA_NE * RC * N * ID: A1EWQ6YCM8CO0E>
+<Rater 2: NA_NE * RC * N * ID: A3ER967LRUC39Y>
+<Rater 3: NA_NE * RC - QU * N * ID: A1JRV4XD6CG12W>
+<Rater 4: NA_NE *  * N * ID: A2QH1BQA6GR48O>
+
+<h> Police use of licence plate scans breaks privacy law: commissioner
+<p> British Columbia's information and privacy commissioner has condemned how the Victoria police department uses the information scanned from licence plates on people's vehicles.
+<p> The technology, known as Automated Licence Plate Recognition, is a useful tool for law enforcement, allowed commissioner Elizabeth Denham in a 32-page report released today. It lets Victoria police compare plate numbers to an alert list kept by the RCMP of vehicles that may be stolen or otherwise of interest.
+<p> Denham's main concern is about what happens to the numbers that do not appear in the RCMP's list. The ALPR system also records the time and location of the scan and takes a picture of the vehicle and the licence plate.
+<p> "This is personal information about the owners of vehicles that are scanned by ALPR, but who are not of interest to police," she wrote in her report, which considered whether the Victoria police department's practices comply with B.C.'s Freedom of Information and Protection of Privacy Act.
+<p> "In my view, the use and disclosure of this information for unspecified purposes would not be justifiable under FIPPA," she said. "Collecting personal information for law enforcement purposes does not extend to retaining information on the suspicionless activities of citizens just in case it may be useful in the future."
+<p> The Victoria police department appreciates the commissioner's role, but "disagrees with certain elements of the Commissioner's characterization of how the ALPR program functions," chief Jamie Graham said in an emailed statement. The department never reveals 'non-hit' data and transfers it to the RCMP "for the sole purpose of its destruction."
+<h> 14
+<h> Van Isle
+<h> Just another notch for a
+<p> Just another notch for a police state. And for those people who think that if one hasn't done anything wrong, they have nothing to fear; tell that to people who live or have lived in a police state, such as DDR (East Germany).
+<h> Van Isle
+<h> Yes, that's right Snert. My
+<p> Yes, that's right Snert. My old man use to be a civilian employee with the RCMP back in the 70's and what info they have on the CPIC on every Canadian citizen will make yer hair curl. For example; every bank account that you ever had, past and present. They know more about you than you know yourself. And don't kid yourself for a sec that any info is being disposed of.
+<h> snert
+<h> Sorry , Van Isle, It's not right.
+<p> In a police state the data would be continuously used for malicious purposes. Collected data in and of itself does not equal a police state nor does limited misuse. But, that does not preclude steps being taken to control access.
+<p> The only thing that is truly private is your thoughts, at least the ones you don't put on paper....or tape....or on your computer....or on the internet, need I say more.
+<h> Ricky
+<h> Hmm
+<p> How long do they keep the data before transferring it for destruction?
+<p> Where is the data kept during that pre-transfer period?
+<p> Who in the department has access to the data before it is transferred?
+<p> In what way is the data used?
+<p> It's not that hard to use and retain this private information without strictly violating individual privacy. For instance, you could replace a license plate number with some arbitrary identifier that, nonetheless, lets you know that this or that specific vehicle was here, or there, or wherever at this or that time. You could collect this data for years and have analysts look at it, and have a very clear idea of the kind of activity happening in the city - economic, demographic, whatever - without strictly violating individual privacy.
+<p> You could even feed the data to analysts without telling them that these are cars in a city - just variables, each containing the same set of traits.
+<p> Obviously, you can only see the number 284702352 come up so many times before you know that there are a limited set of options for "c," corresponding to the limited colour options, but even if you figured out that this was vehicle scan data, how would you ever know it was in Victoria, let alone which exact car that is?
+<p> I mean, you could probably plot the recurring GPS numbers ("e"), which also would form a type of limited set to maybe, somehow profile a geography... but that's tricky, isn't it? I can imagine a lawyer arguing that privacy could not reasonably be violated, and that this is a "safe" use of data.
+<p> Of course, there is one easy way to find out what those random numbers are:
+<p> If you made a master list when you produced those "private" new numbers.
+<p> Such a master list would probably be illegal, but if only one or two people had access...
+<p> So, yeah, it would be interesting to get answers to those four questions
+<h> Ricky
+<h> Clarifier
+<p> Just to be clear: Jamie Graham said that "The department never reveals 'non-hit' data..."
+<p> That to me implies that "revealing" only occurs when the data is disseminated outside of the department, and that internal dissemination does not constitute a "revealing."
+<p> There's an implied red herring here: that the issue is if the department just gives out the raw data to whoever, which would be ridiculous. But just broadcasting data like a lawn sprinkler is hardly the only way it can be used. Sounds like he's deflecting.
+<h> Jamie Graham?
+<h> Van Isle
+<h> Snert, I gotta go against
+<p> Snert, I gotta go against everything you say, cuz I was a victum of ID theft. There was one big fuck-up was the RCMP info about me and my ID thief. The trouble is that I couldn't go to the police and tell them what was true or was not true on their files about me; "cuz it's not allowed". I had my medical records screwed up (I have AIDS according to the screwed up records)in the process, which are on CPIC. There were accusations (I was a drug dealer for one) about me that were completely untrue. Banks that I had never dealt with in my life were calling me up and threatening with the court if I didn't pay up on loans which I had never made. Police coming to my door to arrest me for B&E's. I finally got so pissed-off I went down to the police station and told the Officer on duty that since I'm such a bad ass he has to arrest me and throw me in jail. He never did and since then I haven't had any more problems. But I still wonder what they have on file about me is true or untrue.
+<h> igbymac
+<h> snert
+<p> Until the true criminals against people are outed and prosecuted, starting with the war criminal sect that haunts the heads of state, we do live in a police state. The police and military protect the state foremost, and use the front of protecting the population as its cover.
+<p> The data collected is not to protect us from ourselves, but ultimately to be used to ensure we know there is a haunting police presence, and to quietly coerce the people into compliance lest they be targeted themselves. Meanwhile, the hypocrites talk peace while Canada is the 6th largest military equipment producer in the world.
+<p> The con is simple, and its been going on for centuries. People are simply too fcuking stupid to even be smart enough to stop supporting it through a vote.
+<h> pwlg
+<h> No Guarantees
+<p> We have no guarantee other than Victoria's police chief, Graham, that the RCMP deletes the material collected by Victoria police on law abiding citizens.
+<p> Chief Graham is no stranger to Vancouver citizens. One has to wonder about a person who leaves a shooting range target full of bullet holes on the City Manager's desk. While on Graham's beat in Vancouver 60 affidavits of officer misconduct and subsequent allegations that Graham obstructed the RCMP investigation over the allegations ended up with an independent report concluding that he did commit, "through his inaction, the Code of Conduct offence of Discreditable Conduct."
+<p> This is rather perplexing given Graham's 34 year service in the RCMP prior to becoming both Vancouver's and now Victoria's police chief.
+<p> Graham needs to review both Canada's and BC's Privacy Acts, which are law, and end his practice of surveillance on law abiding citizens.
+<p> Police have sufficient powers to deal with criminal activities without using tools that capture us all in their web of dubious lawful data collection.
+<p> Time for Victoria residents to head to police HQ and in writing ask for access to all information and data collected on them. If 5,000 residents mailed a simple request to Victoria Police this would give a strong message to those who tend to circumvent the laws of the land.
+<p> To a few of those who made comments on this article, please read Canada's Privacy Act, passed in 1983 before providing excuses for another of Graham's over-extension of police powers.
+<p> No best comments selected by an editor for this story yet. To see all comments, click the All Comments tab, above.
+<h> E.R.A.S.E. Bullying
+<p> Bullying is once again in the news in B.C. this week thanks to Premier Clark's E.R.A.S.E. Bullying Summit in Vancouver on Tuesday, but also the launch of the government's E.R.A.S.E. Bullying website. Among the features on the site, which includes online anonymous reporting of bullying, tips on creating safe schools, and the government's action plan, is a Parents' Guide to text slang, an effort to help adults identify the signs of possible bullying -- if they can wrench the phone away from their child's hands long enough to read it.
+<p> How would you fare if forced to decipher today's text speak? Check it out here , and check out more stories on The Hook as we bring you the news this week. G2GICYAL8ER!
+

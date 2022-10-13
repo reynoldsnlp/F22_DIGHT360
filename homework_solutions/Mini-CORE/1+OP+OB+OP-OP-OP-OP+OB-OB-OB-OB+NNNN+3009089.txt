@@ -1,0 +1,58 @@
+<3009089>
+<http://blogs.computerworlduk.com/internet-of-things/2012/11/a-step-change-is-a-coming/index.htm>
+<Rater 1: OP_OB *  * N * ID: A1159C6RKPZURE>
+<Rater 2: OP_OB *  * N * ID: A28OR0DDYOT4XB>
+<Rater 3: OP_OB *  * N * ID: A3209D1227UCYP>
+<Rater 4: OP_OB *  * N * ID: A3QGNYMQNUC6HM>
+
+<h> About Author
+<p> Dr John Riley is passionate about improving the innovation process, having first hand experience of large enterprises, small business, academia, and government. As Managing Editor of Computer Weekly (1992-2008) he championed true business value from IT and founded the CW500 Club for IT Directors. He was until recently Strategic Advisor to Erudine, an early adopter of agile technology, campaigning for the wider UK SME community. He was a founder of the UK Innovation Initiative and is active across the IT community.
+<h> Contact Author
+<h> A Step Change is A-Coming
+<h> IoT could transform our lives quicker than we expect
+<p> Published 15:38, 07 November 12
+<p> "Open your eyes - there's a new world a comin'; Open your eyes, there's a new world today."
+<p> These lyrics are from the 1970 Paul Kanter/Jefferson Starship album "Blows Against the Empire", heralding widespread societal recalibration developing from the 1960s hippy revolution. They're also equally relevant for the the emerging Internet of Things revolution.
+<p> The Internet of Things, where anything can be connected to everything and anywhere, is shaping up to have potentially as huge an impact on us as did the World Wide Web, so why do so few see it coming right now?
+<p> IoT: Evolutionary vs Revolutionary
+<p> Some would say it's because the Internet of Things is evolutionary, not revolutionary. From a technological perspective they could be right, but from the perspective of intercommunicating applications and their impact this is set to be revolutionary. It's on a par, if not greater than, the deployment of the World Wide Web - the first revolution of mass Internet connectivity.
+<p> It's not easy to see a paradigm shift happening and sometimes the closer you are the less you expect to see it coming at you as fast as it does. That's because the signs are all around us and we obliviously take them for granted until some catalyst brings them all together to give them boost and direction. Web Wake-Up.... My personal example is the got an electric shock wake-up call I got in 1994 in Geneva when I heard Tim Berners-Lee talk about the Web. It suddenly clicked with me that this was the catalyst to link and channel all the communications and desktop capabilities that were emerging around us - from hobbyist tecchie news groups to subscription services like Compuserve .
+<p> As we all now know, the web (as a result of browsers and especially CERN donating the World Wide Web intellectual property to the world) went on to transform society and then business as we knew it. Although it took time - it was only from about 2001 that it began to transform my own industry - publishing -  which is when the real mainstream shift from paper to digital publications started. ....to IoT WakeUp Talking to chip manufacturers last year I got a similar wake-up about the transformations to come with the Internet of Things, as well as the pace and scale of change.
+<p> The Internet of Things , the third revolution in mass Internet connectivity, is currently about where the World Wide Web was in about 1994. With the Web, consumer adoption accelerated during the later 90s' with corporates dribbling it onboard slowly, triggering versions of the continuing "Bring Your Own Device" debate right from the start.
+<p> So just how fast do we see take-off for the Internet of Things? That depends on the applications and also on the pace of global interoperability standards. But elements are creeping up all around us: the amazing extensions of mobile phone capability; the rise of Open Hardware movement, Formula 1 racing cars with their complex sensor chips; emerging telehealth and telemedicine applications. The first largescale application of the Internet of Things to hit the general populations' radar looks set to be smart energy metering in the home.
+<p> There's a lot happening in a growing number of silos of activity. The true power of the Internet of Things will hit us when the applications in these silos are interlinked and breed new dimensions of applications we can scarcely now imagine.
+<p> Plan now for early IoT impacts
+<p> There are varying predictions about the scale of smart intercommunicating miniature sensor and actuator devices but all estimates are huge - 50 billion upwards within a decade.
+<p> The first two Internet connectivity revolutions - the first via the desktop and the second via mobile phones - impacted us progressively quickly.
+<p> We all need to expect and plan for the third, the Internet of Things tsunami of applications, to make landfall sooner than we expect - more like 2015 than 2020.
+<h> Email this to a friend
+<p> * indicates mandatory field
+<p> To (email)*:
+<p> From (email)*:
+<p> Message:
+<p> A Step Change is A-Coming
+<p> \n\n
+<p> "Open your eyes - there's a new world a comin'; \nOpen your eyes, there's a new world today."
+<p> \n\n
+<p> These lyrics are from the 1970 Paul Kanter/Jefferson Starship album "Blows Against the Empire", heralding widespread societal recalibration developing from the 1960s hippy revolution. They're also equally relevant for the the emerging Internet of Things revolution.
+<p> \n\n
+<p> The Internet of Things, where anything can be connected to everything and anywhere, is shaping up to have potentially as huge an impact on us as did the World Wide Web, so why do so few see it coming right now?
+<p> IoT: Evolutionary vs Revolutionary
+<p> Some would say it's because the Internet of Things is evolutionary, not revolutionary. From a technological perspective they could be right, but from the perspective of intercommunicating applications and their impact this is set to be revolutionary. It's on a par, if not greater than, the deployment of the World Wide Web - the first revolution of mass Internet connectivity.
+<p> \n\n
+<p> It's not easy to see a paradigm shift happening and sometimes the closer you are the less you expect to see it coming at you as fast as it does. That's because the signs are all around us and we obliviously take them for granted until some catalyst brings them all together to give them boost and direction. \n \nWeb Wake-Up.... \nMy personal example is the got an electric shock wake-up call I got in 1994 in Geneva when I heard Tim Berners-Lee talk about the Web. It suddenly clicked with me that this was the catalyst to link and channel all the communications and desktop capabilities that were emerging around us - from hobbyist tecchie news groups to subscription services like Compuserve .
+<p> As we all now know, the web (as a result of browsers and especially CERN donating the World Wide Web intellectual property to the world) went on to transform society and then business as we knew it. Although it took time - it was only from about 2001 that it began to transform my own industry - publishing -  which is when the real mainstream shift from paper to digital publications started. \n \n....to IoT WakeUp \nTalking to chip manufacturers last year I got a similar wake-up about the transformations to come with the Internet of Things, as well as the pace and scale of change.
+<p> \n\n
+<p> The Internet of Things , the third revolution in mass Internet connectivity, is currently about where the World Wide Web was in about 1994. With the Web, consumer adoption accelerated during the later 90s' with corporates dribbling it onboard slowly, triggering versions of the continuing \"Bring Your Own Device" debate right from the start.
+<p> \n\n
+<p> So just how fast do we see take-off for the Internet of Things? That depends on the applications and also on the pace of global interoperability standards. But elements are creeping up all around us: the amazing extensions of mobile phone capability; the rise of Open Hardware movement, Formula 1 racing cars with their complex sensor chips; emerging telehealth and telemedicine applications. The first largescale application of the Internet of Things to hit the general populations' radar looks set to be smart energy metering in the home.
+<p> \n\n
+<p> There's a lot happening in a growing number of silos of activity. The true power of the Internet of Things will hit us when the applications in these silos are interlinked and breed new dimensions of applications we can scarcely now imagine.
+<p> \n\n
+<p> Plan now for early IoT impacts
+<p> There are varying predictions about the scale of smart intercommunicating miniature sensor and actuator devices but all estimates are huge - 50 billion upwards within a decade.
+<p> \n\n
+<p> The first two Internet connectivity revolutions - the first via the desktop and the second via mobile phones - impacted us progressively quickly.
+<p> \n\n
+<p> We all need to expect and plan for the third, the Internet of Things tsunami of applications, to make landfall sooner than we expect - more like 2015 than 2020.
+

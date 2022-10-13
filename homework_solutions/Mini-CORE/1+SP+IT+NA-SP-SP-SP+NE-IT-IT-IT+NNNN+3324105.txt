@@ -1,0 +1,27 @@
+<3324105>
+<http://www.newquest.com.au/startup-interviews/startup-interview-white-as-milk/>
+<Rater 1: NA_NE *  * N * ID: A1HBDQ0BJQBA4Q>
+<Rater 2: SP_IT * RC * N * ID: A31VXFZVLRDZHZ>
+<Rater 3: SP_IT * RC - QU * N * ID: A2VVS4LIGTM7V6>
+<Rater 4: SP_IT *  * N * ID: A1Q8L9UA8SAPIQ>
+
+<h> Startup Interview ~ White As Milk
+<h> Can you tell us about yourself and your background?
+<p> Myself? Well... I live a little bit north of Australia... in Singapore. I settled in four years ago with my wife after having worked in France. After graduating in a French business school, I started to work in finance but I always kept an eyes on what was happening on the internet. I was reading a lot about e-commerce until a point where I needed to experience it by myself and came White As Milk idea.
+<h> What's the story behind White As Milk (WAM)?
+<p> I always had lots of ideas about products that could be sold online but when one night I ve seen myself running to the supermarket for a stupid can of baby milk powder. I told myself that I would pay to receive every month the same number of milk cans and diapers at home rather than queuing at the supermarket. I can understand that shopping needs sometimes to feel, try, touch even smell a product before buying it. But this is not the case of diapers and milk. Buying diapers and milk for babies is just boring... This is how the idea of selling diapers and milk on a subscription basis came. A solution which addresses a real need ;-)
+<h> How did it get started in Singapore?
+<p> I started in Singapore by communicating about the project in November 2011 with White As Milk blog , and as I felt a little bit lonely I asked other parents in Singapore to contribute to the blog. In addition to sell baby products, I thought that It would be a good idea that white as milk becomes a place for parents to chat and share parenting tips and life in Singapore. The shop has been launched 10 month later in September 2012 with NewQuest help.
+<h> What platform do you use and why have you chosen this solution?
+<p> I chose Prestashop because I heard really good feedback about it and also because NewQuest confirmed me that they could develop a subscription module on top of it.
+<h> The subscription model is a very interesting idea: can you enlighten us on how it technically works?
+<p> Implementing it was in the end more complicated than I thought. Parents have access to a dashboard (separate from the cart) where they can manage their "subscribed" products. Remove, add products or change quantity, decide if they want a 3, 6 or 9 month subscription and choose the date of their monthly delivery for the coming months. 5 days before the delivery they will receive a reminder telling them their products are coming and if they want, they can add additional products to benefit the free delivery of the subscription. 2 days before the delivery, we send another email, telling them that we are processing the delivery (no action can be taken on the subscription). Parents can cancel anytime their subscription for no reason. The payment solution behind the subscription module is PayPal.
+<h> And how do you manage it on a daily basis (especially since you are a full-time father)?
+<p> Yes it is not easy. That is why, the fabulous Marion came on board just before the launch of White As Milk. Marion is doing her internship at White As Milk where she is in charge of mainly all ;-) She is really a great help! And unfortunately her internship ends in December this year ;-(
+<h> What are you expecting for WAM in the near future?
+<p> First I'd like to provide the best service that I can to White As Milk's first customers. I think selling products on a subscription basis is not only selling products but it is also delivering a good service which must be 10 times better than queuing at the supermarket. Then, I have the ambition that with enough market share, white as milk will be one day big enough to compete with supermarkets in terms of prices by saving on structure costs. I really would like to check by myself that this idea can be true ;-)
+<h> Can we expect WAM to fly out to the Australian market?
+<p> I'd like but Singapore first. One country at a time. But if you can introduce me to potential partners in Australia to accelerate the development! I'm yours ;-)
+<h> Have you got any exclusivity you want to share with NQ's readers?
+<p> Yes, do you know that White As Milk is not only selling diapers and milk but we source baby products that we love and we propose in our staff pick section, including this amazing natural baby skin care brand: Four cow farm , which comes (guess where?) from Australia. Of course! We love the family story behind this company.
+

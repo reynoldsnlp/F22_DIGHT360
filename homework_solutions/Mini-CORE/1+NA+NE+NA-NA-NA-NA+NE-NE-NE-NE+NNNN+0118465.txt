@@ -1,0 +1,39 @@
+<0118465>
+<http://seattle.cbslocal.com/2012/08/25/scientists-successfully-hack-brain-to-obtain-private-data/>
+<Rater 1: NA_NE * RC * N * ID: A23AWSZSAGLY8X>
+<Rater 2: NA_NE * RC * N * ID: A3209D1227UCYP>
+<Rater 3: NA_NE * RC * N * ID: A3QGNYMQNUC6HM>
+<Rater 4: NA_NE * RC - QU * N * ID: AGTT8VLD53WNV>
+
+<h> Filed under
+<h> Related tags
+<p> BERKELEY, Calif. (CBS Seattle) -- It sounds like something out of the movie "Johnny Mnemonic," but scientists have successfully been able to "hack" a brain with a device that's easily available on the open market.
+<p> Researchers from the University of California and University of Oxford in Geneva figured out a way to pluck sensitive information from a person's head, such as PIN numbers and bank information.
+<p> The scientists took an off-the-shelf Emotiv brain-computer interface, a device that costs around $299, which allows users to interact with their computers by thought.
+<p> The scientists then sat their subjects in front of a computer screen and showed them images of banks, people, and PIN numbers. They then tracked the readings coming off of the brain, specifically the P300 signal.
+<p> The P300 signal is typically given off when a person recognizes something meaningful, such as someone or something they interact with on a regular basis.
+<p> Scientists that conducted the experiment found they could reduce the randomness of the images by 15 to 40 percent, giving them a better chance of guessing the correct answer.
+<p> Another interesting facet about the experiments is how the P300 signal could be read for lie detection.
+<p> "For this reason, a GKT based on the P300 has a promising use within interrogation protocols that enable detection of potential criminal details held by the suspect," the researchers said.
+<p> However, scientists say this way of lie detection is "vulnerable to specific countermeasures," but not as many compared to a traditional lie detector.
+<p> This could only be the beginning of a new form of fraud. Scientists say that a person with their guard lowered could be "easily engaged into 'mind games' that camouflage the interrogation of the user and make them more cooperative."
+<p> Also, much like other household electronics, "the ever increasing quality of devices, success rates of attacks will likely improve."
+<p> [...] Scientists Successfully 'Hack' Brain To Obtain Private Data BERKELEY, Calif. (CBS Seattle) --  It sounds like something out of the movie "Johnny Mnemonic," but scientists have successfully been able to "hack" a brain with a device that's easily available on the open market. [...]
+<p> [...] recognizes something meaningful, such as someone or something they interact with on a regular basis.Read more Share this:TwitterFacebookLike this:LikeBe the first to like this. Posted in Featured, Health [...]
+<p> This may be personal, but I feel like at least a few other neuro-people will agree: The portrayal of neuroscience research in the mass media. The public is pretty interested in learning about how their brains work. This means that findings about psycho...
+<p> [...] just sure the other 'secretly' harbors or inveighs as a danger to all.What if, however, the device spoken of here, could accurately read the best of the human heart. Now that would be evolutionary.var [...]
+<p> [...] part of the league-mandated roster reductions from 90 to 75 players. The 38-year-old posted a [...]Scientists Successfully 'Hack' Brain To Obtain Private DataIt sounds like something out of the movie "Johnny Mnemonic," but scientists have successfully [...]
+<p> http://politicolonel.com/2012/08/27/univ\\... University of California and University of Oxford in Geneva Researchers discover how to "hack" the Human Brain -- politiColonel
+<p> [...] Now that the locked up Marine is out, we wonder how long it's going to be before the global security aparatchik figures out how to use a $300 eMotiv headset to figure out when people are telling the truth?  A PC and a headset is a lot cheaper than a lie detector machine (and all that damn training and such) so why not?  Already scientists are hacking people's PINs using the gear. [...]
+<p> [...] Researchers from the University of California and University of Oxford in Geneva figured out a way to pluck sensitive information from a person's head, such as PIN numbers and bank information. -- More. [...]
+<p> [...] is a report floating around on the interwebs that scientists, using Science! have succeeded in hacking a person's brain and retrieving information from it. As scary as that sounds, the procedure is still in its infancy, [...]
+<p> [...] Full story here Original OzHouse content may be freely reproduced in full with link to http://www.ozhouse.org Please share and like our articles on StumbleUpon, Reddit, Digg and Facebook!Do you know something we don't? Contact us and tell us what you know. COMMENTING: Your first 2 comments at OzHouse need to be approved. Then, comments will be auto posted with no moderation. If comments are just left completely open, spam bots post about 1000 comments a day trying to sell viagra. Tagged with: big brother  BNW  science  If you enjoyed this article, please consider sharing it! [...]
+<p> [...] I found this article that says scientists have used the same neuroheadsets I've been wanting to use for my project to "hack" someone's brain and obtain sensitive information. Here's the link. [...]
+<p> [...] as CBS Seattle first reported, some scientists are claiming they can "hack" information out of a subject's [...]
+<p> http://themellowjihadi.com/2012/08/30/ca\\... Reading Minds |
+<p> [...] You gotta love the Emotiv brain-computer interface that reads the brain's P300 signal. Essentially, UC Berkeley and the University of Oxford teamed up to find ways to predict thoughts. Well, almost predict. . . ShareFacebookEmailDiggRedditPinterestPri\\... This entry was posted in Berkeley and tagged Emotiv brain, P300, UC Berkeley, University of Oxford by NavyOne. Bookmark the permalink. [...]
+<p> http://noeticbynature.wordpress.com/2012\\... what does machine...mean?  noetic by nature
+<p> [...] the desert so that places like Arizona and Palm Springs can become golf course meccas, and now scientists have figured out how to "hack" human brains for stored data (like pin numbers) using a $299 device available for [...]
+<p> [...] at the University of California and the University of Oxford in Geneva have devised a way to steal a user's sensitive information -- account numbers, PIN numbers, etc. -- via Emotiv's off-the-shelf brain signal-reading [...]
+<p> [...] Scientists Successfully 'Hack' Brain To Obtain Private Data Look just how close mind reading is right now! Just imagine what it will be like in a few years as technology continues to advance so rapidly. [...]
+

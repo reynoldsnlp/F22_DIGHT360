@@ -1,0 +1,17 @@
+<0569312>
+<http://www.textadventures.co.uk/blog/2011/12/05/the-things-that-go-bump-in-the-night-now-available-for-ios-and-android/>
+<Rater 1: IP_DS * RC * N * ID: AGT0JMR9C58X3>
+<Rater 2: IP_DS * RC * N * ID: APWXTMJO1I1ST>
+<Rater 3: IP_DS * RC * N * ID: AC5LU9TF9CTK9>
+<Rater 4: IP_DS * RC * Y * ID: A2RGVOJDMIKL4W>
+
+<h> "The Things That Go Bump In The Night" now available for iOS and Android
+<p> The Things That Go Bump In The Night is now available for iOS (iPhone, iPod Touch, iPad) and Android devices.
+<p> In this game, written by Tim Hamilton, you are a security guard settling down to a quiet night shift, when things start to go wrong. You must make your way around the compound, solving puzzles and dispatching mysterious beasts.
+<p> This is the first Quest game to appear for smartphones, and I believe it is the first text adventure to be specifically designed for a pocket-sized touch screen -- you can play the entire game without typing, instead using the hyperlinks and tabs to navigate and interact with the game world.
+<h> 2 Responses to "The Things That Go Bump In The Night" now available for iOS and Android
+<h> By veryalien December 5, 2011 - 9:14 pm
+<p> As I wrote for the earlier blog post, it's working great on my android phone. One minor gripe is that you can 'try' commands for previous rooms by scrolling back. But the commands are still handled or rejected correctly. For the initial 'mobile' version I'd say that's pretty damn good!
+<h> By Anthony December 31, 2011 - 11:41 am
+<p> I have downloaded Bump for iPhone. Is it possible to reload a saved game manually? If not, please add this sorely needed feature!
+

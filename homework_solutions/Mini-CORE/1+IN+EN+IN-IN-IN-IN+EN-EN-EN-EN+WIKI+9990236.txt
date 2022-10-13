@@ -1,0 +1,17 @@
+<9990236>
+<http://en.wikipedia.org/wiki/A_picture_is_worth_a_thousand_words>
+<Rater 1: IN_EN * Wiki>
+<Rater 2: IN_EN * Wiki>
+<Rater 3: IN_EN * Wiki>
+<Rater 4: IN_EN * Wiki>
+<h> A picture is worth a thousand words
+<p> The adage " A picture is worth a thousand words " refers to the notion that a complex idea can be conveyed with just a single still image. It also aptly characterizes one of the main goals of visualization , namely making it possible to absorb large amounts of data quickly.
+<p> A similar phrase, "One Look Is Worth A Thousand Words", appears in a 1913 newspaper advertisement for the Piqua Auto Supply House of Piqua, Ohio . [ 2 ]
+<p> An early use of the exact phrase appears in an 1918 newspaper advertisement for the San Antonio Light which says:
+<p> One of the Nation's Greatest Editors Says: One Picture is Worth a Thousand Words The San Antonio Light's Pictorial Magazine of the War Exemplifies the truth of the above statement-judging from the warm reception it has received at the hands of the Sunday Light readers. [ 3 ]
+<p> It is believed by some that the modern use of the phrase stems from an article by Fred R. Barnard in the advertising trade journal Printers' Ink , promoting the use of images in advertisements that appeared on the sides of streetcars . [ 4 ] The December 8, 1921 issue carries an ad entitled, "One Look is Worth A Thousand Words."
+<p> Another ad by Barnard appears in the March 10, 1927 issue with the phrase "One Picture Worth Ten Thousand Words," where it is labeled a Chinese proverb (?????). [ citation needed ] The Home Book of Proverbs, Maxims, and Familiar Phrases quotes Barnard as saying he called it "a Chinese proverb, so that people would take it seriously." Soon after, the proverb would become popularly attributed to Confucius . The discussion of "One Picture Worth Thousand Words" versus "One Picture Worth Ten Thousand Words" Wan yen I hua and 10.000 miles worth 10.000 books is cited in Information graphics where the concept of many in different disciplines and cultures. [ 5 ]
+<p> More recently it has been quoted as "One showing is worth a hundred sayings". [ 6 ] And was published in that form as early as 1966 discussing persuasion and selling in a book on engineering design [ 7 ]
+<p> A picture is worth a thousand words
+<p> Despite this modern origin of the popular phrase, the sentiment has been expressed by earlier writers. For example the Russian writer Ivan Turgenev wrote (in Fathers and Sons in 1862), "A picture shows me at a glance what it takes dozens of pages of a book to expound."
+<p> Computer programmer and author Fred Brooks makes an opposite statement regarding programming in The Mythical Man-Month : "Show me your flowcharts and conceal your tables , and I shall continue to be mystified. Show me your tables, and I wont usually need your flowcharts; theyll be obvious." The phrase has also been spoofed by John McCarthy , the famous computer scientist , to make the opposite point: "As the Chinese say, 1001 words is worth more than a picture." [ 8 ]

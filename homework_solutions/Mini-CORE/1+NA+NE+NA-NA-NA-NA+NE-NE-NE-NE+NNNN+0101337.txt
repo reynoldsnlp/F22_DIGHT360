@@ -1,0 +1,47 @@
+<0101337>
+<http://www.independent.co.uk/news/education/education-news/graduate-im-afraid-were-going-to-have-to-let-you-go-1289335.html>
+<Rater 1: NA_NE * RC * N * ID: A1RL8TKX352T7I>
+<Rater 2: NA_NE *  * N * ID: A2S96ZZ70YFPSK>
+<Rater 3: NA_NE *  * N * ID: A31Q6X25680ELX>
+<Rater 4: NA_NE *  * N * ID: A3UOK7WMVFVHHE>
+
+<p> Ian Hunter outlines the obligations of a company to staff who are made redundant.
+<p> It is not hard to imagine that the personnel departments in Union Bank Switzerland and Swiss Bank Corporation will be working late this Christmas. In all probability they will be finalising a redundancy programme for the estimated 3,000 City-based employees who are expected to lose their jobs as a result of the merger.
+<p> Handling redundancies requires sensitivity, care and, on occasion, a considerable helping of toughness. Personnel departments have to try to manage employees' anxieties while making sure that implementing the redundancy programme does not turn into a financial disaster.
+<p> Everyone who is dismissed talks about being made redundant. In reality redundancy is only one form of dismissal, which occurs when the employer needs fewer employees to run its business.
+<p> The general position on dismissal is that an employee has two potential claims against his employer, one contractual and the other statutory. Contractual claims are usually caused by the failure of the employer to give adequate notice of its intention to terminate an employee's contract.
+<p> In such a case, the starting-point for calculating damages is an amount equal to the value of the salary and other fringe benefits (such as the use of a car, and pension contributions) to which the employee would have been entitled during the notice period.
+<p> An employee who has been employed continuously for two years or more enjoys additional statutory protection on dismissal. (This time limit is currently being considered by the European Court of Justice.) He or she may have claims for either unfair dismissal, or redundancy, or both.
+<p> Where an employee is made redundant, a claim for unfair dismissal will succeed only if the procedure used in selecting who should be made redundant is found to have been unfair.
+<p> To minimise the risk of a redundancy giving rise to a successful claim for unfair dismissal, an employer should ensure that it has a fair selection procedure, and that the choice of a particular employee is a fair application of that procedure.
+<p> Many employers have contractual redundancy schemes which entitle employees to receive enhanced payments. Typically, an employee may receive a month's pay for each completed year of service.
+<p> Employers should, wherever possible, give employees advance notice of any proposed redundancies, and consult with them individually as to the nature of the losses and what form they will take. If the employer fails to consult, unless he can show that such consultation would not have made any difference, the dismissal will be deemed to be unfair.
+<p> Employers who are intending to make redundant 20 or more employees are under a statutory duty to consult with any recognised trade unions, or, alternatively, employee representatives elected from the workforce.
+<p> The larger the number of prospective redundant employees, the longer the period of consultation that is required.An employer is under an additional statutory duty to notify the Department of Trade and Industry if it intends to dismiss 20 or more employees. Failure to comply with this obligation could result in the employer being fined up to pounds 5,000.
+<p> Personnel officers need to consider the practical aspects of a redundancy. How should the dismissal be handled? Do the managers effecting the dismissals need a script? Are the employees clear about how to accept any offer made to them?
+<p> Those handling the redundancies will need to consider how the employees will react. Dismissal can be a traumatic experience. Can dismissed employees be allowed to return to their desks, or is it necessary to escort them immediately from the premises?
+<p> Where redundancy has been insensitively handled, there have been cases of agitated employees taking their frustration out on the company's highly expensive and sophisticated computer systems. Who said working in personnel was all about being cuddly and soft?
+<h> Game on: Oliver Thring joins a partridge shoot
+<h> Everything but the turkey: Best Christmas trimmings
+<p> What makes a cracking Christmas meal? It's all in the details, says Christopher Hirst, who has chomped his way through a mountain of supermarket and specialist food
+<h> Bangkok reigns supreme for street food
+<p> Every city in the world is now getting in on the street-food act, but Bangkok is still the best, says John Brunton
+<h> Can you cook perfect fried chicken at home?
+<p> The vogue for fried chicken has us all lusting after crispy wings, but is it achievable at home? Armed with a thermometer and some expert tips, Samuel Muston takes the plunge.
+<h> Cabin fever: Cabane  Sucre
+<p> There is a wooden house in the middle of Canada's snowy countryside where food of such sublime richness is served that getting a table there is more difficult than at a Michelin-starred city restaurant
+<h> Christmas uncorked: The finest reds and whites
+<p> Anthony Rose reveals his festive guide, from the best party red to wines to drink with stilton
+<h> The 50 Best Christmas gifts for children
+<p> From this year's most-fashionable fad to classics they'll want to keep forever, Kate Watson-Smyth fills the family stockings with this year's top toys
+<h> Sole food: could chicken feet to China be Britain's next big export?
+<p> Environment Secretary spots a gap in the market for 'phoenix claws'
+<h> Who is the real Jill Kelley?
+<p> She first hit the news as the apparently innocent victim of abusive emails from the lover of David Petraeus. But the more we've found out about the other, other woman, the greater the mystery
+<h> Here comes the demon chef
+<p> Is London ready for Alvin Leung's 'x-treme Chinese cuisine'?
+<h> Up all night: 24-hour restaurants
+<p> A new breed offers fine dining at any time of day, reports Samuel Muston
+<h> The 10 Best mulled drinks
+<p> A glass of something spicy -- whether it's boozy or soft -- will get you in the mood for winter. Just add a roaring fire...
+

@@ -1,0 +1,29 @@
+<1739496>
+<http://www.a-vision.co.nz/>
+<Rater 1: IP_DS * OP * N * ID: A19F9CLZ0XWBYR>
+<Rater 2: IP_DS * OP * N * ID: A3LNPBZXHKKAA7>
+<Rater 3: IP_DS * QU * N * ID: A1IV79FM6URE9F>
+<Rater 4: IP_DS *  * Y * ID: A2YEXXMJ5EDJFI>
+
+<h> Reliable IT Solutions
+<p> Our core business is Internet / Intranet / Extranet based and customised desktop applications and integration of software applications. With a lot of experience in these particular areas we are able to provide you a very flexible and cost effective solution which will earn its money back in no time. See our Software Products page for more specifics on products we have developed or the Software development page to see what software developments we are able to serve you with.
+<h> Our way of working
+<p> We have a specific vision on how the client can be served the best possible IT solutions.
+<p> While been active in the IT business for many years we discovered that often IT companies tend to misuse their power (knowledge about IT) towards their clients with less knowledge about IT and offer solutions which in itself might be good but not really the most cost effective for the client.
+<p> We have a vision that clients need to be able to deal with a reliable, trustworthy and flexible IT partner on which they can build their IT needs. This will guarantee a solid relationship with the client.
+<p> Next to this reliable, trustworthy and flexible method of working we offer solid IT solutions that will fit to your specific needs as we do our projects in very close relationship with our clients. Our guarantee : You will benefit from our solutions or have your money back .
+<h> Reliability, trustworthy and cost effective
+<p> We at A-Vision have understood what companies really need. Reliability, not only for the software they're using but also when it comes to making changes to meet their specific needs. Another thing is being trustworthy when it comes to sensitive data, especially for a software developing company there are many cases whereas we have to deal with company sensitive and personal data. And last but not least, finding the right solution which works for them, cost effective but not giving in on functionality.
+<p> Throughout the years these have become our major strengths and we are pleased with this position as it stands for a continuing relationship with our clients.
+<h> A-Vision, what's in the name ...
+<p> A-Vision is a young and energetic business searching through the ever evolving IT branch offering flexible and effective solutions. Starting in February 2006 the company has been supplying several business' from small to large with reliable, high standard and quality solutions. Current activities mainly are providing web based software solutions, software integration projects and more...
+<p> Business with A Vision means to enable Innovation , accelerate Growth and to Streamline your business processes.
+<h> Testimonials
+<p> Great to deal with, providing solutions that work with great support.
+<p> Client (New Zealand)
+<p> A-Vision does what it says and delivers a great project. Honesty, Integrity and a great job summarises A-Vision .
+<p> Client (Australia)
+<p> A-Vision / WebSoftware provides an excellent service, from concept to final intergration.
+<p> Client (New Zealand)
+<p> Service is excellent, A-Vision has been fantastic in their effort to help us implement this software to suit our needs. Great job.
+

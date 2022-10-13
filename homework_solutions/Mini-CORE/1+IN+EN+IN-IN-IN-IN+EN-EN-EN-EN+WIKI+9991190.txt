@@ -1,0 +1,14 @@
+<9991190>
+<http://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo>
+<Rater 1: IN_EN * Wiki>
+<Rater 2: IN_EN * Wiki>
+<Rater 3: IN_EN * Wiki>
+<Rater 4: IN_EN * Wiki>
+<p> The sentence uses three meanings of the word buffalo : the city of Buffalo, New York , the somewhat uncommon verb "to buffalo" (meaning "to bully or intimidate"), as well as the animal buffalo . When the punctuation and grammar are expanded, the sentence could read as follows: "Buffalo buffalo that Buffalo buffalo buffalo, buffalo Buffalo buffalo." With the use of synonyms the sentence could become "Buffalo bison that other Buffalo bison bully, themselves bully Buffalo bison."
+<p> The sentence uses a restrictive clause , so there are no commas, nor is there the word "which," as in, "Buffalo buffalo, which Buffalo buffalo buffalo, buffalo Buffalo buffalo." This clause is also a reduced relative clause , so the word that , which could appear between the second and third words of the sentence, is omitted.
+<p> Thus, the parsed sentence reads as a claim that bison who are intimidated or bullied by bison are themselves intimidating or bullying bison (at least in the city of Buffalo" implicitly, Buffalo, NY):
+<p> Thomas Tymoczko has pointed out that there is nothing special about eight "buffalos"; any sentence consisting solely of the word "buffalo" repeated any number of times is grammatically correct. The shortest is "Buffalo!", which can be taken as an imperative instruction to bully someone ("[You] buffalo!") with the implied subject "you" removed. [ 4 ] Tymoczko uses the sentence as an example illustrating rewrite rules in linguistics. [ 5 ]
+<p> Other English words can be used to make grammatical (but not necessarily meaningful) sentences of this form, containing endless consecutive repetitions. Any word that is both a plural noun and an uninflected transitive verb will work; for example, police , dice , perch . Adding a place name like Police, Poland , can allow for a sentence identical in structure to the Buffalo example, though not necessarily with uniform pronunciation: "Police police Police police police police Police police." With head (of cattle), as there is an adjective 'head', there is no capitalisation necessary: "Head head head head head head head head".
+<p> Any of these words can be mixed in any arbitrary pattern, such as "Police dice fish head buffalo", although only Police , head , and Buffalo can be parsed as adjectives.
+<p> Sorry, your browser either has JavaScript disabled or does not have any supported player. You can download the clip or download a player to play the clip in your browser.
+<p> This audio file was created from a revision of the " Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo " article dated 2006-12-09, and does not reflect subsequent edits to the article. ( Audio help )
