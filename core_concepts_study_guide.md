@@ -4,7 +4,7 @@
 * Printing text (to the screen or to a file; default is to stdout file, i.e. the screen) 
 * Concatenating strings and variables
 * Regular expressions (cheatsheets allowed)
-* For loops
+* Loops ("iterate", "iteration")
 * Splitting strings
 * Substituting text
 * Importing modules
