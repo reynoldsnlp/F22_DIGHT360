@@ -69,7 +69,9 @@ sentences = [
     'This is not the terrible, awful, useless waste of time that people say it is!',
 ]
 
+
 # VADER approach
+
 sentiment_analyzer = SentimentIntensityAnalyzer()
 for sentence in sentences:
     print(f'{sentence:<60}', end='')
@@ -77,10 +79,14 @@ for sentence in sentences:
     for name, score in sorted(ps.items()):
         print(f'\t{name}: {score:> .3}', end='  ')
     print()
-print('\n\n')
+
+# Devin is smart, handsome, and funny.                        	compound:  0.832  	neg:  0.0  	neu:  0.254  	pos:  0.746
+# Devin is smart, handsome, and funny!                        	compound:  0.844  	neg:  0.0  	neu:  0.248  	pos:  0.752
+# ...
 
 
 # TextBlob approach
+
 # https://textblob.readthedocs.io/en/dev/api_reference.html#module-textblob.en.sentiments
 testimonial = TextBlob("Textblob is amazingly simple to use. What great fun!")
 print(testimonial.sentiment)
@@ -97,6 +103,7 @@ print(blob.noun_phrases)
 # ['devin', 'devin', 'devin', 'devin', 'very smart', 'funny', 'devin', ...]
 for sentence in blob.sentences:
     print(sentence, sentence.sentiment)
+
 # Devin is smart, handsome, and funny. Sentiment(polarity=0.32142857142857145, subjectivity=0.8809523809523809)
 # Devin is smart, handsome, and funny! Sentiment(polarity=0.3422619047619048, subjectivity=0.8809523809523809)
 # ...
