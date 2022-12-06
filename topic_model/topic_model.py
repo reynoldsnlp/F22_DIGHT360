@@ -7,15 +7,18 @@ import re
 import sys
 
 import gensim
-# import pyLDAvis
-# from pyLDAvis import gensim_models
+import pyLDAvis
+from pyLDAvis import gensim_models
 import spacy
 from tqdm import tqdm
 
 
 TOPIC_COUNT = 10
-WORDS_PER_TOPIC = 10
-PASSES = 50
+WORDS_PER_TOPIC = 5
+ITERATIONS = 400
+EVAL_EVERY = None
+PASSES = 20
+
 
 nlp = spacy.load('en_core_web_sm')  # your model name may be different
 
@@ -65,9 +68,15 @@ corpus_tfidf = tfidf[bow_corpus]  # each doc is a list of (token_id, token_TFIDF
 
 # Running and Training LDA model on the TF-IDF model.
 print('Training LDA model...', file=sys.stderr)
-ldamodel = gensim.models.ldamodel.LdaModel(corpus_tfidf,
+ldamodel = gensim.models.ldamodel.LdaModel(bow_corpus,
+                                           alpha='auto',
+                                           eta='auto',
+                                           iterations=ITERATIONS,
                                            num_topics=TOPIC_COUNT,
-                                           id2word=dictionary, passes=PASSES)
+                                           id2word=dictionary,
+                                           passes=PASSES,
+                                           eval_every=EVAL_EVERY
+                                          )
 
 topic_keys = ldamodel.print_topics(num_topics=TOPIC_COUNT,
                                    num_words=WORDS_PER_TOPIC)
@@ -91,5 +100,5 @@ with open('doc_topics.csv', 'w', newline='') as csv_file:
         for topic, loading in doc_topics:
             csv_writer.writerow([doc_name, topic, 'Undirected', loading])
 
-# lda_visualization = gensim_models.prepare(ldamodel, corpus_tfidf, dictionary)
-# pyLDAvis.show(lda_visualization)
+lda_visualization = gensim_models.prepare(ldamodel, corpus_tfidf, dictionary)
+pyLDAvis.show(lda_visualization)
