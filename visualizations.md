@@ -165,17 +165,14 @@ mu, sigma = 100, 15
 x = mu + sigma * np.random.randn(10000)  # x is a list of random numbers in a normal distribution
 
 # the histogram of the data
-n, bins, patches = plt.hist(x, 50, normed=1, facecolor='g', alpha=0.75)
-print(n)
-print(bins)
-print(patches)
+counts, bins = np.histogram(x, bins=20)
+plt.stairs(counts, bins, fill=True)  # or plt.bar()
 
 # add some text
 plt.xlabel('Smarts')
 plt.ylabel('Probability')
 plt.title('Histogram of IQ')
-plt.text(60, .025, r'$\mu=100,\ \sigma=15$')
-plt.axis([40, 160, 0, 0.03])
+plt.text(50, 1200, r'$\mu=100,\ \sigma=15$')  # LaTeX math expression inside $'s
 plt.grid(True)
 plt.show()
 ```
